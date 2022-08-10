@@ -1,0 +1,5041 @@
+sip,dip,sport,dport,prot,dsfield,ipflags,length,label,payload
+172.16.1.116,172.16.1.119,2427,2427,udp,0x00,0x40,103,mgcp,"RQNT 1 *@gateway44.myplace.com MGCP 0.1
+R: l/hd(n)
+X: 2
+
+"
+172.16.1.116,172.16.1.119,2427,2427,udp,0x00,0x40,103,mgcp,"RQNT 1 *@gateway44.myplace.com MGCP 0.1
+R: l/hd(n)
+X: 2
+
+"
+172.16.1.116,172.16.1.119,2427,2427,udp,0x00,0x40,103,mgcp,"RQNT 1 *@gateway44.myplace.com MGCP 0.1
+R: l/hd(n)
+X: 2
+
+"
+172.16.1.116,172.16.1.119,2427,2427,udp,0x00,0x40,103,mgcp,"RQNT 1 *@gateway44.myplace.com MGCP 0.1
+R: l/hd(n)
+X: 2
+
+"
+172.16.1.116,172.16.1.119,2427,2427,udp,0x00,0x40,103,mgcp,"RQNT 1 *@gateway44.myplace.com MGCP 0.1
+R: l/hd(n)
+X: 2
+
+"
+172.16.1.116,172.16.1.119,2427,2427,udp,0x00,0x40,103,mgcp,"RQNT 1 *@gateway44.myplace.com MGCP 0.1
+R: l/hd(n)
+X: 2
+
+"
+172.16.1.116,172.16.1.119,2427,2427,udp,0x00,0x40,103,mgcp,"RQNT 1 *@gateway44.myplace.com MGCP 0.1
+R: l/hd(n)
+X: 2
+
+"
+172.16.1.116,172.16.1.119,2427,2427,udp,0x00,0x40,103,mgcp,"RQNT 1 *@gateway44.myplace.com MGCP 0.1
+R: l/hd(n)
+X: 2
+
+"
+172.16.1.116,172.16.1.119,2427,2427,udp,0x00,0x40,103,mgcp,"RQNT 1 *@gateway44.myplace.com MGCP 0.1
+R: l/hd(n)
+X: 2
+
+"
+172.16.1.116,172.16.1.119,2427,2427,udp,0x00,0x40,103,mgcp,"RQNT 1 *@gateway44.myplace.com MGCP 0.1
+R: l/hd(n)
+X: 2
+
+"
+172.16.1.116,172.16.1.119,2427,2427,udp,0x00,0x40,103,mgcp,"RQNT 1 *@gateway44.myplace.com MGCP 0.1
+R: l/hd(n)
+X: 2
+
+"
+172.16.1.116,172.16.1.119,2427,2427,udp,0x00,0x40,103,mgcp,"RQNT 1 *@gateway44.myplace.com MGCP 0.1
+R: l/hd(n)
+X: 2
+
+"
+172.16.1.116,172.16.1.119,2427,2427,udp,0x00,0x40,103,mgcp,"RQNT 1 *@gateway44.myplace.com MGCP 0.1
+R: l/hd(n)
+X: 2
+
+"
+172.16.1.116,172.16.1.119,2427,2427,udp,0x00,0x40,103,mgcp,"RQNT 1 *@gateway44.myplace.com MGCP 0.1
+R: l/hd(n)
+X: 2
+
+"
+172.16.1.116,172.16.1.119,2427,2427,udp,0x00,0x40,103,mgcp,"RQNT 1 *@gateway44.myplace.com MGCP 0.1
+R: l/hd(n)
+X: 2
+
+"
+172.16.1.116,172.16.1.119,2427,2427,udp,0x00,0x40,103,mgcp,"RQNT 1 *@gateway44.myplace.com MGCP 0.1
+R: l/hd(n)
+X: 2
+
+"
+172.16.1.119,172.16.1.116,2427,2427,udp,0xb8,0x00,98,mgcp,"510 1 Protocol Error: Forbidden parameter line present.
+"
+172.16.1.119,172.16.1.116,2427,2427,udp,0xb8,0x00,98,mgcp,"510 1 Protocol Error: Forbidden parameter line present.
+"
+172.16.1.119,172.16.1.116,2427,2427,udp,0xb8,0x00,98,mgcp,"510 1 Protocol Error: Forbidden parameter line present.
+"
+172.16.1.119,172.16.1.116,2427,2427,udp,0xb8,0x00,98,mgcp,"510 1 Protocol Error: Forbidden parameter line present.
+"
+172.16.1.119,172.16.1.116,2427,2427,udp,0xb8,0x00,98,mgcp,"510 1 Protocol Error: Forbidden parameter line present.
+"
+172.16.1.119,172.16.1.116,2427,2427,udp,0xb8,0x00,98,mgcp,"510 1 Protocol Error: Forbidden parameter line present.
+"
+172.16.1.119,172.16.1.116,2427,2427,udp,0xb8,0x00,98,mgcp,"510 1 Protocol Error: Forbidden parameter line present.
+"
+172.16.1.119,172.16.1.116,2427,2427,udp,0xb8,0x00,98,mgcp,"510 1 Protocol Error: Forbidden parameter line present.
+"
+172.16.1.119,172.16.1.116,2427,2427,udp,0xb8,0x00,98,mgcp,"510 1 Protocol Error: Forbidden parameter line present.
+"
+172.16.1.119,172.16.1.116,2427,2427,udp,0xb8,0x00,98,mgcp,"510 1 Protocol Error: Forbidden parameter line present.
+"
+172.16.1.119,172.16.1.116,2427,2427,udp,0xb8,0x00,98,mgcp,"510 1 Protocol Error: Forbidden parameter line present.
+"
+172.16.1.119,172.16.1.116,2427,2427,udp,0xb8,0x00,98,mgcp,"510 1 Protocol Error: Forbidden parameter line present.
+"
+172.16.1.119,172.16.1.116,2427,2427,udp,0xb8,0x00,98,mgcp,"510 1 Protocol Error: Forbidden parameter line present.
+"
+172.16.1.119,172.16.1.116,2427,2427,udp,0xb8,0x00,98,mgcp,"510 1 Protocol Error: Forbidden parameter line present.
+"
+172.16.1.119,172.16.1.116,2427,2427,udp,0xb8,0x00,98,mgcp,"510 1 Protocol Error: Forbidden parameter line present.
+"
+172.16.1.119,172.16.1.116,2427,2427,udp,0xb8,0x00,98,mgcp,"510 1 Protocol Error: Forbidden parameter line present.
+"
+172.16.1.119,172.16.1.116,2427,2427,udp,0xb8,0x00,101,mgcp,"RSIP 31656860 *@gateway44.myplace.com MGCP 1.0
+RM: restart
+"
+172.16.1.119,172.16.1.116,2427,2427,udp,0xb8,0x00,101,mgcp,"RSIP 31656860 *@gateway44.myplace.com MGCP 1.0
+RM: restart
+"
+172.16.1.119,172.16.1.116,2427,2427,udp,0xb8,0x00,101,mgcp,"RSIP 31656860 *@gateway44.myplace.com MGCP 1.0
+RM: restart
+"
+172.16.1.119,172.16.1.116,2427,2427,udp,0xb8,0x00,101,mgcp,"RSIP 31656860 *@gateway44.myplace.com MGCP 1.0
+RM: restart
+"
+172.16.1.119,172.16.1.116,2427,2427,udp,0xb8,0x00,101,mgcp,"RSIP 31656860 *@gateway44.myplace.com MGCP 1.0
+RM: restart
+"
+172.16.1.119,172.16.1.116,2427,2427,udp,0xb8,0x00,101,mgcp,"RSIP 31656860 *@gateway44.myplace.com MGCP 1.0
+RM: restart
+"
+172.16.1.119,172.16.1.116,2427,2427,udp,0xb8,0x00,101,mgcp,"RSIP 31656860 *@gateway44.myplace.com MGCP 1.0
+RM: restart
+"
+172.16.1.119,172.16.1.116,2427,2427,udp,0xb8,0x00,101,mgcp,"RSIP 31656860 *@gateway44.myplace.com MGCP 1.0
+RM: restart
+"
+172.16.1.119,172.16.1.116,2427,2427,udp,0xb8,0x00,101,mgcp,"RSIP 31656860 *@gateway44.myplace.com MGCP 1.0
+RM: restart
+"
+172.16.1.119,172.16.1.116,2427,2427,udp,0xb8,0x00,101,mgcp,"RSIP 31656860 *@gateway44.myplace.com MGCP 1.0
+RM: restart
+"
+172.16.1.119,172.16.1.116,2427,2427,udp,0xb8,0x00,101,mgcp,"RSIP 31656860 *@gateway44.myplace.com MGCP 1.0
+RM: restart
+"
+172.16.1.119,172.16.1.116,2427,2427,udp,0xb8,0x00,101,mgcp,"RSIP 31656860 *@gateway44.myplace.com MGCP 1.0
+RM: restart
+"
+172.16.1.119,172.16.1.116,2427,2427,udp,0xb8,0x00,101,mgcp,"RSIP 31656860 *@gateway44.myplace.com MGCP 1.0
+RM: restart
+"
+172.16.1.119,172.16.1.116,2427,2427,udp,0xb8,0x00,101,mgcp,"RSIP 31656860 *@gateway44.myplace.com MGCP 1.0
+RM: restart
+"
+172.16.1.119,172.16.1.116,2427,2427,udp,0xb8,0x00,101,mgcp,"RSIP 31656860 *@gateway44.myplace.com MGCP 1.0
+RM: restart
+"
+172.16.1.119,172.16.1.116,2427,2427,udp,0xb8,0x00,101,mgcp,"RSIP 31656860 *@gateway44.myplace.com MGCP 1.0
+RM: restart
+"
+172.16.1.116,172.16.1.119,2427,2427,udp,0x00,0x40,61,mgcp,"200 31656860 ok
+
+"
+172.16.1.116,172.16.1.119,2427,2427,udp,0x00,0x40,61,mgcp,"200 31656860 ok
+
+"
+172.16.1.116,172.16.1.119,2427,2427,udp,0x00,0x40,61,mgcp,"200 31656860 ok
+
+"
+172.16.1.116,172.16.1.119,2427,2427,udp,0x00,0x40,61,mgcp,"200 31656860 ok
+
+"
+172.16.1.116,172.16.1.119,2427,2427,udp,0x00,0x40,61,mgcp,"200 31656860 ok
+
+"
+172.16.1.116,172.16.1.119,2427,2427,udp,0x00,0x40,61,mgcp,"200 31656860 ok
+
+"
+172.16.1.116,172.16.1.119,2427,2427,udp,0x00,0x40,61,mgcp,"200 31656860 ok
+
+"
+172.16.1.116,172.16.1.119,2427,2427,udp,0x00,0x40,61,mgcp,"200 31656860 ok
+
+"
+172.16.1.116,172.16.1.119,2427,2427,udp,0x00,0x40,61,mgcp,"200 31656860 ok
+
+"
+172.16.1.116,172.16.1.119,2427,2427,udp,0x00,0x40,61,mgcp,"200 31656860 ok
+
+"
+172.16.1.116,172.16.1.119,2427,2427,udp,0x00,0x40,61,mgcp,"200 31656860 ok
+
+"
+172.16.1.116,172.16.1.119,2427,2427,udp,0x00,0x40,61,mgcp,"200 31656860 ok
+
+"
+172.16.1.116,172.16.1.119,2427,2427,udp,0x00,0x40,61,mgcp,"200 31656860 ok
+
+"
+172.16.1.116,172.16.1.119,2427,2427,udp,0x00,0x40,61,mgcp,"200 31656860 ok
+
+"
+172.16.1.116,172.16.1.119,2427,2427,udp,0x00,0x40,61,mgcp,"200 31656860 ok
+
+"
+172.16.1.116,172.16.1.119,2427,2427,udp,0x00,0x40,61,mgcp,"200 31656860 ok
+
+"
+172.16.1.116,172.16.1.119,2427,2427,udp,0x00,0x40,103,mgcp,"RQNT 1 *@gateway44.myplace.com MGCP 0.1
+R: l/hd(n)
+X: 2
+
+"
+172.16.1.116,172.16.1.119,2427,2427,udp,0x00,0x40,103,mgcp,"RQNT 1 *@gateway44.myplace.com MGCP 0.1
+R: l/hd(n)
+X: 2
+
+"
+172.16.1.116,172.16.1.119,2427,2427,udp,0x00,0x40,103,mgcp,"RQNT 1 *@gateway44.myplace.com MGCP 0.1
+R: l/hd(n)
+X: 2
+
+"
+172.16.1.116,172.16.1.119,2427,2427,udp,0x00,0x40,103,mgcp,"RQNT 1 *@gateway44.myplace.com MGCP 0.1
+R: l/hd(n)
+X: 2
+
+"
+172.16.1.116,172.16.1.119,2427,2427,udp,0x00,0x40,103,mgcp,"RQNT 1 *@gateway44.myplace.com MGCP 0.1
+R: l/hd(n)
+X: 2
+
+"
+172.16.1.116,172.16.1.119,2427,2427,udp,0x00,0x40,103,mgcp,"RQNT 1 *@gateway44.myplace.com MGCP 0.1
+R: l/hd(n)
+X: 2
+
+"
+172.16.1.116,172.16.1.119,2427,2427,udp,0x00,0x40,103,mgcp,"RQNT 1 *@gateway44.myplace.com MGCP 0.1
+R: l/hd(n)
+X: 2
+
+"
+172.16.1.116,172.16.1.119,2427,2427,udp,0x00,0x40,103,mgcp,"RQNT 1 *@gateway44.myplace.com MGCP 0.1
+R: l/hd(n)
+X: 2
+
+"
+172.16.1.116,172.16.1.119,2427,2427,udp,0x00,0x40,103,mgcp,"RQNT 1 *@gateway44.myplace.com MGCP 0.1
+R: l/hd(n)
+X: 2
+
+"
+172.16.1.116,172.16.1.119,2427,2427,udp,0x00,0x40,103,mgcp,"RQNT 1 *@gateway44.myplace.com MGCP 0.1
+R: l/hd(n)
+X: 2
+
+"
+172.16.1.116,172.16.1.119,2427,2427,udp,0x00,0x40,103,mgcp,"RQNT 1 *@gateway44.myplace.com MGCP 0.1
+R: l/hd(n)
+X: 2
+
+"
+172.16.1.116,172.16.1.119,2427,2427,udp,0x00,0x40,103,mgcp,"RQNT 1 *@gateway44.myplace.com MGCP 0.1
+R: l/hd(n)
+X: 2
+
+"
+172.16.1.116,172.16.1.119,2427,2427,udp,0x00,0x40,103,mgcp,"RQNT 1 *@gateway44.myplace.com MGCP 0.1
+R: l/hd(n)
+X: 2
+
+"
+172.16.1.116,172.16.1.119,2427,2427,udp,0x00,0x40,103,mgcp,"RQNT 1 *@gateway44.myplace.com MGCP 0.1
+R: l/hd(n)
+X: 2
+
+"
+172.16.1.116,172.16.1.119,2427,2427,udp,0x00,0x40,103,mgcp,"RQNT 1 *@gateway44.myplace.com MGCP 0.1
+R: l/hd(n)
+X: 2
+
+"
+172.16.1.116,172.16.1.119,2427,2427,udp,0x00,0x40,103,mgcp,"RQNT 1 *@gateway44.myplace.com MGCP 0.1
+R: l/hd(n)
+X: 2
+
+"
+172.16.1.119,172.16.1.116,2427,2427,udp,0xb8,0x00,98,mgcp,"510 1 Protocol Error: Forbidden parameter line present.
+"
+172.16.1.119,172.16.1.116,2427,2427,udp,0xb8,0x00,98,mgcp,"510 1 Protocol Error: Forbidden parameter line present.
+"
+172.16.1.119,172.16.1.116,2427,2427,udp,0xb8,0x00,98,mgcp,"510 1 Protocol Error: Forbidden parameter line present.
+"
+172.16.1.119,172.16.1.116,2427,2427,udp,0xb8,0x00,98,mgcp,"510 1 Protocol Error: Forbidden parameter line present.
+"
+172.16.1.119,172.16.1.116,2427,2427,udp,0xb8,0x00,98,mgcp,"510 1 Protocol Error: Forbidden parameter line present.
+"
+172.16.1.119,172.16.1.116,2427,2427,udp,0xb8,0x00,98,mgcp,"510 1 Protocol Error: Forbidden parameter line present.
+"
+172.16.1.119,172.16.1.116,2427,2427,udp,0xb8,0x00,98,mgcp,"510 1 Protocol Error: Forbidden parameter line present.
+"
+172.16.1.119,172.16.1.116,2427,2427,udp,0xb8,0x00,98,mgcp,"510 1 Protocol Error: Forbidden parameter line present.
+"
+172.16.1.119,172.16.1.116,2427,2427,udp,0xb8,0x00,98,mgcp,"510 1 Protocol Error: Forbidden parameter line present.
+"
+172.16.1.119,172.16.1.116,2427,2427,udp,0xb8,0x00,98,mgcp,"510 1 Protocol Error: Forbidden parameter line present.
+"
+172.16.1.119,172.16.1.116,2427,2427,udp,0xb8,0x00,98,mgcp,"510 1 Protocol Error: Forbidden parameter line present.
+"
+172.16.1.119,172.16.1.116,2427,2427,udp,0xb8,0x00,98,mgcp,"510 1 Protocol Error: Forbidden parameter line present.
+"
+172.16.1.119,172.16.1.116,2427,2427,udp,0xb8,0x00,98,mgcp,"510 1 Protocol Error: Forbidden parameter line present.
+"
+172.16.1.119,172.16.1.116,2427,2427,udp,0xb8,0x00,98,mgcp,"510 1 Protocol Error: Forbidden parameter line present.
+"
+172.16.1.119,172.16.1.116,2427,2427,udp,0xb8,0x00,98,mgcp,"510 1 Protocol Error: Forbidden parameter line present.
+"
+172.16.1.119,172.16.1.116,2427,2427,udp,0xb8,0x00,98,mgcp,"510 1 Protocol Error: Forbidden parameter line present.
+"
+172.16.1.116,172.16.1.119,2427,2427,udp,0x00,0x40,103,mgcp,"RQNT 2 *@gateway44.myplace.com MGCP 0.1
+R: l/hd(n)
+X: 3
+
+"
+172.16.1.116,172.16.1.119,2427,2427,udp,0x00,0x40,103,mgcp,"RQNT 2 *@gateway44.myplace.com MGCP 0.1
+R: l/hd(n)
+X: 3
+
+"
+172.16.1.116,172.16.1.119,2427,2427,udp,0x00,0x40,103,mgcp,"RQNT 2 *@gateway44.myplace.com MGCP 0.1
+R: l/hd(n)
+X: 3
+
+"
+172.16.1.116,172.16.1.119,2427,2427,udp,0x00,0x40,103,mgcp,"RQNT 2 *@gateway44.myplace.com MGCP 0.1
+R: l/hd(n)
+X: 3
+
+"
+172.16.1.116,172.16.1.119,2427,2427,udp,0x00,0x40,103,mgcp,"RQNT 2 *@gateway44.myplace.com MGCP 0.1
+R: l/hd(n)
+X: 3
+
+"
+172.16.1.116,172.16.1.119,2427,2427,udp,0x00,0x40,103,mgcp,"RQNT 2 *@gateway44.myplace.com MGCP 0.1
+R: l/hd(n)
+X: 3
+
+"
+172.16.1.116,172.16.1.119,2427,2427,udp,0x00,0x40,103,mgcp,"RQNT 2 *@gateway44.myplace.com MGCP 0.1
+R: l/hd(n)
+X: 3
+
+"
+172.16.1.116,172.16.1.119,2427,2427,udp,0x00,0x40,103,mgcp,"RQNT 2 *@gateway44.myplace.com MGCP 0.1
+R: l/hd(n)
+X: 3
+
+"
+172.16.1.116,172.16.1.119,2427,2427,udp,0x00,0x40,103,mgcp,"RQNT 2 *@gateway44.myplace.com MGCP 0.1
+R: l/hd(n)
+X: 3
+
+"
+172.16.1.116,172.16.1.119,2427,2427,udp,0x00,0x40,103,mgcp,"RQNT 2 *@gateway44.myplace.com MGCP 0.1
+R: l/hd(n)
+X: 3
+
+"
+172.16.1.116,172.16.1.119,2427,2427,udp,0x00,0x40,103,mgcp,"RQNT 2 *@gateway44.myplace.com MGCP 0.1
+R: l/hd(n)
+X: 3
+
+"
+172.16.1.116,172.16.1.119,2427,2427,udp,0x00,0x40,103,mgcp,"RQNT 2 *@gateway44.myplace.com MGCP 0.1
+R: l/hd(n)
+X: 3
+
+"
+172.16.1.116,172.16.1.119,2427,2427,udp,0x00,0x40,103,mgcp,"RQNT 2 *@gateway44.myplace.com MGCP 0.1
+R: l/hd(n)
+X: 3
+
+"
+172.16.1.116,172.16.1.119,2427,2427,udp,0x00,0x40,103,mgcp,"RQNT 2 *@gateway44.myplace.com MGCP 0.1
+R: l/hd(n)
+X: 3
+
+"
+172.16.1.116,172.16.1.119,2427,2427,udp,0x00,0x40,103,mgcp,"RQNT 2 *@gateway44.myplace.com MGCP 0.1
+R: l/hd(n)
+X: 3
+
+"
+172.16.1.116,172.16.1.119,2427,2427,udp,0x00,0x40,103,mgcp,"RQNT 2 *@gateway44.myplace.com MGCP 0.1
+R: l/hd(n)
+X: 3
+
+"
+172.16.1.119,172.16.1.116,2427,2427,udp,0xb8,0x00,98,mgcp,"510 2 Protocol Error: Forbidden parameter line present.
+"
+172.16.1.119,172.16.1.116,2427,2427,udp,0xb8,0x00,98,mgcp,"510 2 Protocol Error: Forbidden parameter line present.
+"
+172.16.1.119,172.16.1.116,2427,2427,udp,0xb8,0x00,98,mgcp,"510 2 Protocol Error: Forbidden parameter line present.
+"
+172.16.1.119,172.16.1.116,2427,2427,udp,0xb8,0x00,98,mgcp,"510 2 Protocol Error: Forbidden parameter line present.
+"
+172.16.1.119,172.16.1.116,2427,2427,udp,0xb8,0x00,98,mgcp,"510 2 Protocol Error: Forbidden parameter line present.
+"
+172.16.1.119,172.16.1.116,2427,2427,udp,0xb8,0x00,98,mgcp,"510 2 Protocol Error: Forbidden parameter line present.
+"
+172.16.1.119,172.16.1.116,2427,2427,udp,0xb8,0x00,98,mgcp,"510 2 Protocol Error: Forbidden parameter line present.
+"
+172.16.1.119,172.16.1.116,2427,2427,udp,0xb8,0x00,98,mgcp,"510 2 Protocol Error: Forbidden parameter line present.
+"
+172.16.1.119,172.16.1.116,2427,2427,udp,0xb8,0x00,98,mgcp,"510 2 Protocol Error: Forbidden parameter line present.
+"
+172.16.1.119,172.16.1.116,2427,2427,udp,0xb8,0x00,98,mgcp,"510 2 Protocol Error: Forbidden parameter line present.
+"
+172.16.1.119,172.16.1.116,2427,2427,udp,0xb8,0x00,98,mgcp,"510 2 Protocol Error: Forbidden parameter line present.
+"
+172.16.1.119,172.16.1.116,2427,2427,udp,0xb8,0x00,98,mgcp,"510 2 Protocol Error: Forbidden parameter line present.
+"
+172.16.1.119,172.16.1.116,2427,2427,udp,0xb8,0x00,98,mgcp,"510 2 Protocol Error: Forbidden parameter line present.
+"
+172.16.1.119,172.16.1.116,2427,2427,udp,0xb8,0x00,98,mgcp,"510 2 Protocol Error: Forbidden parameter line present.
+"
+172.16.1.119,172.16.1.116,2427,2427,udp,0xb8,0x00,98,mgcp,"510 2 Protocol Error: Forbidden parameter line present.
+"
+172.16.1.119,172.16.1.116,2427,2427,udp,0xb8,0x00,98,mgcp,"510 2 Protocol Error: Forbidden parameter line present.
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12218 aaln/4@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12218 aaln/4@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12218 aaln/4@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12218 aaln/4@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12218 aaln/4@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12218 aaln/4@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12218 aaln/4@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12218 aaln/4@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12218 aaln/4@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12218 aaln/4@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12218 aaln/4@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12218 aaln/4@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12218 aaln/4@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12218 aaln/4@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12218 aaln/4@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12218 aaln/4@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12218 aaln/4@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12218 aaln/4@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12218 aaln/4@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12218 aaln/4@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12218 aaln/4@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12218 aaln/4@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12218 aaln/4@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12218 aaln/4@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12218 aaln/4@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12218 aaln/4@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12218 aaln/4@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12218 aaln/4@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12218 aaln/4@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12218 aaln/4@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12218 aaln/4@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12218 aaln/4@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12218 aaln/4@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12218 aaln/4@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12218 aaln/4@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12218 aaln/4@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12218 aaln/4@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12218 aaln/4@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12218 aaln/4@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12218 aaln/4@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12218 aaln/4@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12218 aaln/4@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12218 aaln/4@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12218 aaln/4@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12218 aaln/4@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12218 aaln/4@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12218 aaln/4@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12218 aaln/4@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12218 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12218 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12218 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12218 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12218 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12218 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12218 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12218 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12218 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12218 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12218 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12218 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12218 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12218 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12218 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12218 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12218 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12218 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12218 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12218 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12218 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12218 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12218 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12218 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12218 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12218 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12218 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12218 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12218 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12218 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12218 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12218 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12218 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12218 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12218 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12218 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12218 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12218 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12218 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12218 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12218 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12218 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12218 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12218 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12218 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12218 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12218 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12218 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"AUEP 10506 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"AUEP 10506 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"AUEP 10506 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"AUEP 10506 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"AUEP 10506 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"AUEP 10506 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"AUEP 10506 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"AUEP 10506 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"AUEP 10506 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"AUEP 10506 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"AUEP 10506 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"AUEP 10506 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"AUEP 10506 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"AUEP 10506 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"AUEP 10506 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"AUEP 10506 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"AUEP 10506 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"AUEP 10506 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"AUEP 10506 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"AUEP 10506 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"AUEP 10506 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"AUEP 10506 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"AUEP 10506 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"AUEP 10506 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"AUEP 10506 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"AUEP 10506 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"AUEP 10506 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"AUEP 10506 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"AUEP 10506 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"AUEP 10506 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"AUEP 10506 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"AUEP 10506 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"AUEP 10506 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"AUEP 10506 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"AUEP 10506 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"AUEP 10506 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"AUEP 10506 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"AUEP 10506 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"AUEP 10506 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"AUEP 10506 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"AUEP 10506 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"AUEP 10506 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"AUEP 10506 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"AUEP 10506 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"AUEP 10506 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"AUEP 10506 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"AUEP 10506 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"AUEP 10506 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10506 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10506 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10506 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10506 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10506 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10506 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10506 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10506 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10506 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10506 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10506 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10506 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10506 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10506 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10506 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10506 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10506 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10506 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10506 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10506 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10506 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10506 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10506 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10506 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10506 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10506 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10506 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10506 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10506 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10506 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10506 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10506 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10506 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10506 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10506 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10506 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10506 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10506 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10506 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10506 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10506 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10506 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10506 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10506 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10506 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10506 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10506 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10506 OK
+"
+200.57.7.195,200.57.7.202,2427,9693,udp,0x00,0x40,97,mgcp,"AUEP 10507 aaln/1@cpg1 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,9693,udp,0x00,0x40,97,mgcp,"AUEP 10507 aaln/1@cpg1 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,9693,udp,0x00,0x40,97,mgcp,"AUEP 10507 aaln/1@cpg1 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,9693,udp,0x00,0x40,97,mgcp,"AUEP 10507 aaln/1@cpg1 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,9693,udp,0x00,0x40,97,mgcp,"AUEP 10507 aaln/1@cpg1 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,9693,udp,0x00,0x40,97,mgcp,"AUEP 10507 aaln/1@cpg1 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,9693,udp,0x00,0x40,97,mgcp,"AUEP 10507 aaln/1@cpg1 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,9693,udp,0x00,0x40,97,mgcp,"AUEP 10507 aaln/1@cpg1 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,9693,udp,0x00,0x40,97,mgcp,"AUEP 10507 aaln/1@cpg1 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,9693,udp,0x00,0x40,97,mgcp,"AUEP 10507 aaln/1@cpg1 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,9693,udp,0x00,0x40,97,mgcp,"AUEP 10507 aaln/1@cpg1 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,9693,udp,0x00,0x40,97,mgcp,"AUEP 10507 aaln/1@cpg1 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,9693,udp,0x00,0x40,97,mgcp,"AUEP 10507 aaln/1@cpg1 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,9693,udp,0x00,0x40,97,mgcp,"AUEP 10507 aaln/1@cpg1 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,9693,udp,0x00,0x40,97,mgcp,"AUEP 10507 aaln/1@cpg1 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,9693,udp,0x00,0x40,97,mgcp,"AUEP 10507 aaln/1@cpg1 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,9693,udp,0x00,0x40,97,mgcp,"AUEP 10507 aaln/1@cpg1 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,9693,udp,0x00,0x40,97,mgcp,"AUEP 10507 aaln/1@cpg1 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,9693,udp,0x00,0x40,97,mgcp,"AUEP 10507 aaln/1@cpg1 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,9693,udp,0x00,0x40,97,mgcp,"AUEP 10507 aaln/1@cpg1 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,9693,udp,0x00,0x40,97,mgcp,"AUEP 10507 aaln/1@cpg1 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,9693,udp,0x00,0x40,97,mgcp,"AUEP 10507 aaln/1@cpg1 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,9693,udp,0x00,0x40,97,mgcp,"AUEP 10507 aaln/1@cpg1 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,9693,udp,0x00,0x40,97,mgcp,"AUEP 10507 aaln/1@cpg1 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,9693,udp,0x00,0x40,97,mgcp,"AUEP 10507 aaln/1@cpg1 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,9693,udp,0x00,0x40,97,mgcp,"AUEP 10507 aaln/1@cpg1 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,9693,udp,0x00,0x40,97,mgcp,"AUEP 10507 aaln/1@cpg1 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,9693,udp,0x00,0x40,97,mgcp,"AUEP 10507 aaln/1@cpg1 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,9693,udp,0x00,0x40,97,mgcp,"AUEP 10507 aaln/1@cpg1 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,9693,udp,0x00,0x40,97,mgcp,"AUEP 10507 aaln/1@cpg1 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,9693,udp,0x00,0x40,97,mgcp,"AUEP 10507 aaln/1@cpg1 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,9693,udp,0x00,0x40,97,mgcp,"AUEP 10507 aaln/1@cpg1 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,9693,udp,0x00,0x40,97,mgcp,"AUEP 10507 aaln/1@cpg1 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,9693,udp,0x00,0x40,97,mgcp,"AUEP 10507 aaln/1@cpg1 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,9693,udp,0x00,0x40,97,mgcp,"AUEP 10507 aaln/1@cpg1 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,9693,udp,0x00,0x40,97,mgcp,"AUEP 10507 aaln/1@cpg1 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,9693,udp,0x00,0x40,97,mgcp,"AUEP 10507 aaln/1@cpg1 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,9693,udp,0x00,0x40,97,mgcp,"AUEP 10507 aaln/1@cpg1 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,9693,udp,0x00,0x40,97,mgcp,"AUEP 10507 aaln/1@cpg1 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,9693,udp,0x00,0x40,97,mgcp,"AUEP 10507 aaln/1@cpg1 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,9693,udp,0x00,0x40,97,mgcp,"AUEP 10507 aaln/1@cpg1 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,9693,udp,0x00,0x40,97,mgcp,"AUEP 10507 aaln/1@cpg1 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,9693,udp,0x00,0x40,97,mgcp,"AUEP 10507 aaln/1@cpg1 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,9693,udp,0x00,0x40,97,mgcp,"AUEP 10507 aaln/1@cpg1 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,9693,udp,0x00,0x40,97,mgcp,"AUEP 10507 aaln/1@cpg1 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,9693,udp,0x00,0x40,97,mgcp,"AUEP 10507 aaln/1@cpg1 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,9693,udp,0x00,0x40,97,mgcp,"AUEP 10507 aaln/1@cpg1 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,9693,udp,0x00,0x40,97,mgcp,"AUEP 10507 aaln/1@cpg1 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.202,200.57.7.195,9693,2427,udp,0x07,0x00,60,mgcp,"200 10507 OK
+"
+200.57.7.202,200.57.7.195,9693,2427,udp,0x07,0x00,60,mgcp,"200 10507 OK
+"
+200.57.7.202,200.57.7.195,9693,2427,udp,0x07,0x00,60,mgcp,"200 10507 OK
+"
+200.57.7.202,200.57.7.195,9693,2427,udp,0x07,0x00,60,mgcp,"200 10507 OK
+"
+200.57.7.202,200.57.7.195,9693,2427,udp,0x07,0x00,60,mgcp,"200 10507 OK
+"
+200.57.7.202,200.57.7.195,9693,2427,udp,0x07,0x00,60,mgcp,"200 10507 OK
+"
+200.57.7.202,200.57.7.195,9693,2427,udp,0x07,0x00,60,mgcp,"200 10507 OK
+"
+200.57.7.202,200.57.7.195,9693,2427,udp,0x07,0x00,60,mgcp,"200 10507 OK
+"
+200.57.7.202,200.57.7.195,9693,2427,udp,0x07,0x00,60,mgcp,"200 10507 OK
+"
+200.57.7.202,200.57.7.195,9693,2427,udp,0x07,0x00,60,mgcp,"200 10507 OK
+"
+200.57.7.202,200.57.7.195,9693,2427,udp,0x07,0x00,60,mgcp,"200 10507 OK
+"
+200.57.7.202,200.57.7.195,9693,2427,udp,0x07,0x00,60,mgcp,"200 10507 OK
+"
+200.57.7.202,200.57.7.195,9693,2427,udp,0x07,0x00,60,mgcp,"200 10507 OK
+"
+200.57.7.202,200.57.7.195,9693,2427,udp,0x07,0x00,60,mgcp,"200 10507 OK
+"
+200.57.7.202,200.57.7.195,9693,2427,udp,0x07,0x00,60,mgcp,"200 10507 OK
+"
+200.57.7.202,200.57.7.195,9693,2427,udp,0x07,0x00,60,mgcp,"200 10507 OK
+"
+200.57.7.202,200.57.7.195,9693,2427,udp,0x07,0x00,60,mgcp,"200 10507 OK
+"
+200.57.7.202,200.57.7.195,9693,2427,udp,0x07,0x00,60,mgcp,"200 10507 OK
+"
+200.57.7.202,200.57.7.195,9693,2427,udp,0x07,0x00,60,mgcp,"200 10507 OK
+"
+200.57.7.202,200.57.7.195,9693,2427,udp,0x07,0x00,60,mgcp,"200 10507 OK
+"
+200.57.7.202,200.57.7.195,9693,2427,udp,0x07,0x00,60,mgcp,"200 10507 OK
+"
+200.57.7.202,200.57.7.195,9693,2427,udp,0x07,0x00,60,mgcp,"200 10507 OK
+"
+200.57.7.202,200.57.7.195,9693,2427,udp,0x07,0x00,60,mgcp,"200 10507 OK
+"
+200.57.7.202,200.57.7.195,9693,2427,udp,0x07,0x00,60,mgcp,"200 10507 OK
+"
+200.57.7.202,200.57.7.195,9693,2427,udp,0x07,0x00,60,mgcp,"200 10507 OK
+"
+200.57.7.202,200.57.7.195,9693,2427,udp,0x07,0x00,60,mgcp,"200 10507 OK
+"
+200.57.7.202,200.57.7.195,9693,2427,udp,0x07,0x00,60,mgcp,"200 10507 OK
+"
+200.57.7.202,200.57.7.195,9693,2427,udp,0x07,0x00,60,mgcp,"200 10507 OK
+"
+200.57.7.202,200.57.7.195,9693,2427,udp,0x07,0x00,60,mgcp,"200 10507 OK
+"
+200.57.7.202,200.57.7.195,9693,2427,udp,0x07,0x00,60,mgcp,"200 10507 OK
+"
+200.57.7.202,200.57.7.195,9693,2427,udp,0x07,0x00,60,mgcp,"200 10507 OK
+"
+200.57.7.202,200.57.7.195,9693,2427,udp,0x07,0x00,60,mgcp,"200 10507 OK
+"
+200.57.7.202,200.57.7.195,9693,2427,udp,0x07,0x00,60,mgcp,"200 10507 OK
+"
+200.57.7.202,200.57.7.195,9693,2427,udp,0x07,0x00,60,mgcp,"200 10507 OK
+"
+200.57.7.202,200.57.7.195,9693,2427,udp,0x07,0x00,60,mgcp,"200 10507 OK
+"
+200.57.7.202,200.57.7.195,9693,2427,udp,0x07,0x00,60,mgcp,"200 10507 OK
+"
+200.57.7.202,200.57.7.195,9693,2427,udp,0x07,0x00,60,mgcp,"200 10507 OK
+"
+200.57.7.202,200.57.7.195,9693,2427,udp,0x07,0x00,60,mgcp,"200 10507 OK
+"
+200.57.7.202,200.57.7.195,9693,2427,udp,0x07,0x00,60,mgcp,"200 10507 OK
+"
+200.57.7.202,200.57.7.195,9693,2427,udp,0x07,0x00,60,mgcp,"200 10507 OK
+"
+200.57.7.202,200.57.7.195,9693,2427,udp,0x07,0x00,60,mgcp,"200 10507 OK
+"
+200.57.7.202,200.57.7.195,9693,2427,udp,0x07,0x00,60,mgcp,"200 10507 OK
+"
+200.57.7.202,200.57.7.195,9693,2427,udp,0x07,0x00,60,mgcp,"200 10507 OK
+"
+200.57.7.202,200.57.7.195,9693,2427,udp,0x07,0x00,60,mgcp,"200 10507 OK
+"
+200.57.7.202,200.57.7.195,9693,2427,udp,0x07,0x00,60,mgcp,"200 10507 OK
+"
+200.57.7.202,200.57.7.195,9693,2427,udp,0x07,0x00,60,mgcp,"200 10507 OK
+"
+200.57.7.202,200.57.7.195,9693,2427,udp,0x07,0x00,60,mgcp,"200 10507 OK
+"
+200.57.7.202,200.57.7.195,9693,2427,udp,0x07,0x00,60,mgcp,"200 10507 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,101,mgcp,"NTFY 12219 aaln/1@CPG2 MGCP 1.0 NCS 1.0
+X: ABCD10456
+O: hd
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,101,mgcp,"NTFY 12219 aaln/1@CPG2 MGCP 1.0 NCS 1.0
+X: ABCD10456
+O: hd
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,101,mgcp,"NTFY 12219 aaln/1@CPG2 MGCP 1.0 NCS 1.0
+X: ABCD10456
+O: hd
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,101,mgcp,"NTFY 12219 aaln/1@CPG2 MGCP 1.0 NCS 1.0
+X: ABCD10456
+O: hd
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,101,mgcp,"NTFY 12219 aaln/1@CPG2 MGCP 1.0 NCS 1.0
+X: ABCD10456
+O: hd
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,101,mgcp,"NTFY 12219 aaln/1@CPG2 MGCP 1.0 NCS 1.0
+X: ABCD10456
+O: hd
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,101,mgcp,"NTFY 12219 aaln/1@CPG2 MGCP 1.0 NCS 1.0
+X: ABCD10456
+O: hd
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,101,mgcp,"NTFY 12219 aaln/1@CPG2 MGCP 1.0 NCS 1.0
+X: ABCD10456
+O: hd
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,101,mgcp,"NTFY 12219 aaln/1@CPG2 MGCP 1.0 NCS 1.0
+X: ABCD10456
+O: hd
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,101,mgcp,"NTFY 12219 aaln/1@CPG2 MGCP 1.0 NCS 1.0
+X: ABCD10456
+O: hd
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,101,mgcp,"NTFY 12219 aaln/1@CPG2 MGCP 1.0 NCS 1.0
+X: ABCD10456
+O: hd
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,101,mgcp,"NTFY 12219 aaln/1@CPG2 MGCP 1.0 NCS 1.0
+X: ABCD10456
+O: hd
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,101,mgcp,"NTFY 12219 aaln/1@CPG2 MGCP 1.0 NCS 1.0
+X: ABCD10456
+O: hd
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,101,mgcp,"NTFY 12219 aaln/1@CPG2 MGCP 1.0 NCS 1.0
+X: ABCD10456
+O: hd
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,101,mgcp,"NTFY 12219 aaln/1@CPG2 MGCP 1.0 NCS 1.0
+X: ABCD10456
+O: hd
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,101,mgcp,"NTFY 12219 aaln/1@CPG2 MGCP 1.0 NCS 1.0
+X: ABCD10456
+O: hd
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,101,mgcp,"NTFY 12219 aaln/1@CPG2 MGCP 1.0 NCS 1.0
+X: ABCD10456
+O: hd
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,101,mgcp,"NTFY 12219 aaln/1@CPG2 MGCP 1.0 NCS 1.0
+X: ABCD10456
+O: hd
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,101,mgcp,"NTFY 12219 aaln/1@CPG2 MGCP 1.0 NCS 1.0
+X: ABCD10456
+O: hd
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,101,mgcp,"NTFY 12219 aaln/1@CPG2 MGCP 1.0 NCS 1.0
+X: ABCD10456
+O: hd
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,101,mgcp,"NTFY 12219 aaln/1@CPG2 MGCP 1.0 NCS 1.0
+X: ABCD10456
+O: hd
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,101,mgcp,"NTFY 12219 aaln/1@CPG2 MGCP 1.0 NCS 1.0
+X: ABCD10456
+O: hd
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,101,mgcp,"NTFY 12219 aaln/1@CPG2 MGCP 1.0 NCS 1.0
+X: ABCD10456
+O: hd
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,101,mgcp,"NTFY 12219 aaln/1@CPG2 MGCP 1.0 NCS 1.0
+X: ABCD10456
+O: hd
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,101,mgcp,"NTFY 12219 aaln/1@CPG2 MGCP 1.0 NCS 1.0
+X: ABCD10456
+O: hd
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,101,mgcp,"NTFY 12219 aaln/1@CPG2 MGCP 1.0 NCS 1.0
+X: ABCD10456
+O: hd
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,101,mgcp,"NTFY 12219 aaln/1@CPG2 MGCP 1.0 NCS 1.0
+X: ABCD10456
+O: hd
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,101,mgcp,"NTFY 12219 aaln/1@CPG2 MGCP 1.0 NCS 1.0
+X: ABCD10456
+O: hd
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,101,mgcp,"NTFY 12219 aaln/1@CPG2 MGCP 1.0 NCS 1.0
+X: ABCD10456
+O: hd
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,101,mgcp,"NTFY 12219 aaln/1@CPG2 MGCP 1.0 NCS 1.0
+X: ABCD10456
+O: hd
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,101,mgcp,"NTFY 12219 aaln/1@CPG2 MGCP 1.0 NCS 1.0
+X: ABCD10456
+O: hd
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,101,mgcp,"NTFY 12219 aaln/1@CPG2 MGCP 1.0 NCS 1.0
+X: ABCD10456
+O: hd
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,101,mgcp,"NTFY 12219 aaln/1@CPG2 MGCP 1.0 NCS 1.0
+X: ABCD10456
+O: hd
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,101,mgcp,"NTFY 12219 aaln/1@CPG2 MGCP 1.0 NCS 1.0
+X: ABCD10456
+O: hd
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,101,mgcp,"NTFY 12219 aaln/1@CPG2 MGCP 1.0 NCS 1.0
+X: ABCD10456
+O: hd
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,101,mgcp,"NTFY 12219 aaln/1@CPG2 MGCP 1.0 NCS 1.0
+X: ABCD10456
+O: hd
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,101,mgcp,"NTFY 12219 aaln/1@CPG2 MGCP 1.0 NCS 1.0
+X: ABCD10456
+O: hd
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,101,mgcp,"NTFY 12219 aaln/1@CPG2 MGCP 1.0 NCS 1.0
+X: ABCD10456
+O: hd
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,101,mgcp,"NTFY 12219 aaln/1@CPG2 MGCP 1.0 NCS 1.0
+X: ABCD10456
+O: hd
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,101,mgcp,"NTFY 12219 aaln/1@CPG2 MGCP 1.0 NCS 1.0
+X: ABCD10456
+O: hd
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,101,mgcp,"NTFY 12219 aaln/1@CPG2 MGCP 1.0 NCS 1.0
+X: ABCD10456
+O: hd
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,101,mgcp,"NTFY 12219 aaln/1@CPG2 MGCP 1.0 NCS 1.0
+X: ABCD10456
+O: hd
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,101,mgcp,"NTFY 12219 aaln/1@CPG2 MGCP 1.0 NCS 1.0
+X: ABCD10456
+O: hd
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,101,mgcp,"NTFY 12219 aaln/1@CPG2 MGCP 1.0 NCS 1.0
+X: ABCD10456
+O: hd
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,101,mgcp,"NTFY 12219 aaln/1@CPG2 MGCP 1.0 NCS 1.0
+X: ABCD10456
+O: hd
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,101,mgcp,"NTFY 12219 aaln/1@CPG2 MGCP 1.0 NCS 1.0
+X: ABCD10456
+O: hd
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,101,mgcp,"NTFY 12219 aaln/1@CPG2 MGCP 1.0 NCS 1.0
+X: ABCD10456
+O: hd
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,101,mgcp,"NTFY 12219 aaln/1@CPG2 MGCP 1.0 NCS 1.0
+X: ABCD10456
+O: hd
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"200 12219 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"200 12219 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"200 12219 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"200 12219 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"200 12219 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"200 12219 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"200 12219 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"200 12219 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"200 12219 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"200 12219 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"200 12219 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"200 12219 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"200 12219 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"200 12219 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"200 12219 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"200 12219 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"200 12219 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"200 12219 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"200 12219 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"200 12219 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"200 12219 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"200 12219 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"200 12219 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"200 12219 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"200 12219 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"200 12219 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"200 12219 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"200 12219 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"200 12219 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"200 12219 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"200 12219 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"200 12219 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"200 12219 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"200 12219 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"200 12219 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"200 12219 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"200 12219 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"200 12219 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"200 12219 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"200 12219 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"200 12219 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"200 12219 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"200 12219 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"200 12219 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"200 12219 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"200 12219 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"200 12219 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"200 12219 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,101,mgcp,"RQNT 10508 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu
+X: ABCD10508
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,101,mgcp,"RQNT 10508 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu
+X: ABCD10508
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,101,mgcp,"RQNT 10508 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu
+X: ABCD10508
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,101,mgcp,"RQNT 10508 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu
+X: ABCD10508
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,101,mgcp,"RQNT 10508 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu
+X: ABCD10508
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,101,mgcp,"RQNT 10508 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu
+X: ABCD10508
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,101,mgcp,"RQNT 10508 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu
+X: ABCD10508
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,101,mgcp,"RQNT 10508 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu
+X: ABCD10508
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,101,mgcp,"RQNT 10508 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu
+X: ABCD10508
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,101,mgcp,"RQNT 10508 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu
+X: ABCD10508
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,101,mgcp,"RQNT 10508 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu
+X: ABCD10508
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,101,mgcp,"RQNT 10508 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu
+X: ABCD10508
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,101,mgcp,"RQNT 10508 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu
+X: ABCD10508
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,101,mgcp,"RQNT 10508 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu
+X: ABCD10508
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,101,mgcp,"RQNT 10508 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu
+X: ABCD10508
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,101,mgcp,"RQNT 10508 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu
+X: ABCD10508
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,101,mgcp,"RQNT 10508 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu
+X: ABCD10508
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,101,mgcp,"RQNT 10508 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu
+X: ABCD10508
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,101,mgcp,"RQNT 10508 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu
+X: ABCD10508
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,101,mgcp,"RQNT 10508 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu
+X: ABCD10508
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,101,mgcp,"RQNT 10508 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu
+X: ABCD10508
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,101,mgcp,"RQNT 10508 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu
+X: ABCD10508
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,101,mgcp,"RQNT 10508 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu
+X: ABCD10508
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,101,mgcp,"RQNT 10508 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu
+X: ABCD10508
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,101,mgcp,"RQNT 10508 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu
+X: ABCD10508
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,101,mgcp,"RQNT 10508 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu
+X: ABCD10508
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,101,mgcp,"RQNT 10508 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu
+X: ABCD10508
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,101,mgcp,"RQNT 10508 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu
+X: ABCD10508
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,101,mgcp,"RQNT 10508 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu
+X: ABCD10508
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,101,mgcp,"RQNT 10508 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu
+X: ABCD10508
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,101,mgcp,"RQNT 10508 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu
+X: ABCD10508
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,101,mgcp,"RQNT 10508 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu
+X: ABCD10508
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,101,mgcp,"RQNT 10508 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu
+X: ABCD10508
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,101,mgcp,"RQNT 10508 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu
+X: ABCD10508
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,101,mgcp,"RQNT 10508 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu
+X: ABCD10508
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,101,mgcp,"RQNT 10508 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu
+X: ABCD10508
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,101,mgcp,"RQNT 10508 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu
+X: ABCD10508
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,101,mgcp,"RQNT 10508 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu
+X: ABCD10508
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,101,mgcp,"RQNT 10508 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu
+X: ABCD10508
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,101,mgcp,"RQNT 10508 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu
+X: ABCD10508
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,101,mgcp,"RQNT 10508 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu
+X: ABCD10508
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,101,mgcp,"RQNT 10508 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu
+X: ABCD10508
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,101,mgcp,"RQNT 10508 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu
+X: ABCD10508
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,101,mgcp,"RQNT 10508 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu
+X: ABCD10508
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,101,mgcp,"RQNT 10508 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu
+X: ABCD10508
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,101,mgcp,"RQNT 10508 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu
+X: ABCD10508
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,101,mgcp,"RQNT 10508 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu
+X: ABCD10508
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,101,mgcp,"RQNT 10508 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu
+X: ABCD10508
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,228,mgcp,"RQNT 10509 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf, [0-9#*T](D), oc
+X: ABCD10509
+D: ([2-9]11|*xx|xx#|[1-9]*|9xxx|[1-9]xxxxxxx|01xxxxxxxxxx|00x.T|101xxxx00x.T|101xxxx020T|090T|020T)
+S: dl
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,228,mgcp,"RQNT 10509 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf, [0-9#*T](D), oc
+X: ABCD10509
+D: ([2-9]11|*xx|xx#|[1-9]*|9xxx|[1-9]xxxxxxx|01xxxxxxxxxx|00x.T|101xxxx00x.T|101xxxx020T|090T|020T)
+S: dl
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,228,mgcp,"RQNT 10509 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf, [0-9#*T](D), oc
+X: ABCD10509
+D: ([2-9]11|*xx|xx#|[1-9]*|9xxx|[1-9]xxxxxxx|01xxxxxxxxxx|00x.T|101xxxx00x.T|101xxxx020T|090T|020T)
+S: dl
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,228,mgcp,"RQNT 10509 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf, [0-9#*T](D), oc
+X: ABCD10509
+D: ([2-9]11|*xx|xx#|[1-9]*|9xxx|[1-9]xxxxxxx|01xxxxxxxxxx|00x.T|101xxxx00x.T|101xxxx020T|090T|020T)
+S: dl
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,228,mgcp,"RQNT 10509 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf, [0-9#*T](D), oc
+X: ABCD10509
+D: ([2-9]11|*xx|xx#|[1-9]*|9xxx|[1-9]xxxxxxx|01xxxxxxxxxx|00x.T|101xxxx00x.T|101xxxx020T|090T|020T)
+S: dl
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,228,mgcp,"RQNT 10509 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf, [0-9#*T](D), oc
+X: ABCD10509
+D: ([2-9]11|*xx|xx#|[1-9]*|9xxx|[1-9]xxxxxxx|01xxxxxxxxxx|00x.T|101xxxx00x.T|101xxxx020T|090T|020T)
+S: dl
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,228,mgcp,"RQNT 10509 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf, [0-9#*T](D), oc
+X: ABCD10509
+D: ([2-9]11|*xx|xx#|[1-9]*|9xxx|[1-9]xxxxxxx|01xxxxxxxxxx|00x.T|101xxxx00x.T|101xxxx020T|090T|020T)
+S: dl
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,228,mgcp,"RQNT 10509 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf, [0-9#*T](D), oc
+X: ABCD10509
+D: ([2-9]11|*xx|xx#|[1-9]*|9xxx|[1-9]xxxxxxx|01xxxxxxxxxx|00x.T|101xxxx00x.T|101xxxx020T|090T|020T)
+S: dl
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,228,mgcp,"RQNT 10509 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf, [0-9#*T](D), oc
+X: ABCD10509
+D: ([2-9]11|*xx|xx#|[1-9]*|9xxx|[1-9]xxxxxxx|01xxxxxxxxxx|00x.T|101xxxx00x.T|101xxxx020T|090T|020T)
+S: dl
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,228,mgcp,"RQNT 10509 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf, [0-9#*T](D), oc
+X: ABCD10509
+D: ([2-9]11|*xx|xx#|[1-9]*|9xxx|[1-9]xxxxxxx|01xxxxxxxxxx|00x.T|101xxxx00x.T|101xxxx020T|090T|020T)
+S: dl
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,228,mgcp,"RQNT 10509 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf, [0-9#*T](D), oc
+X: ABCD10509
+D: ([2-9]11|*xx|xx#|[1-9]*|9xxx|[1-9]xxxxxxx|01xxxxxxxxxx|00x.T|101xxxx00x.T|101xxxx020T|090T|020T)
+S: dl
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,228,mgcp,"RQNT 10509 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf, [0-9#*T](D), oc
+X: ABCD10509
+D: ([2-9]11|*xx|xx#|[1-9]*|9xxx|[1-9]xxxxxxx|01xxxxxxxxxx|00x.T|101xxxx00x.T|101xxxx020T|090T|020T)
+S: dl
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,228,mgcp,"RQNT 10509 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf, [0-9#*T](D), oc
+X: ABCD10509
+D: ([2-9]11|*xx|xx#|[1-9]*|9xxx|[1-9]xxxxxxx|01xxxxxxxxxx|00x.T|101xxxx00x.T|101xxxx020T|090T|020T)
+S: dl
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,228,mgcp,"RQNT 10509 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf, [0-9#*T](D), oc
+X: ABCD10509
+D: ([2-9]11|*xx|xx#|[1-9]*|9xxx|[1-9]xxxxxxx|01xxxxxxxxxx|00x.T|101xxxx00x.T|101xxxx020T|090T|020T)
+S: dl
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,228,mgcp,"RQNT 10509 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf, [0-9#*T](D), oc
+X: ABCD10509
+D: ([2-9]11|*xx|xx#|[1-9]*|9xxx|[1-9]xxxxxxx|01xxxxxxxxxx|00x.T|101xxxx00x.T|101xxxx020T|090T|020T)
+S: dl
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,228,mgcp,"RQNT 10509 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf, [0-9#*T](D), oc
+X: ABCD10509
+D: ([2-9]11|*xx|xx#|[1-9]*|9xxx|[1-9]xxxxxxx|01xxxxxxxxxx|00x.T|101xxxx00x.T|101xxxx020T|090T|020T)
+S: dl
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,228,mgcp,"RQNT 10509 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf, [0-9#*T](D), oc
+X: ABCD10509
+D: ([2-9]11|*xx|xx#|[1-9]*|9xxx|[1-9]xxxxxxx|01xxxxxxxxxx|00x.T|101xxxx00x.T|101xxxx020T|090T|020T)
+S: dl
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,228,mgcp,"RQNT 10509 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf, [0-9#*T](D), oc
+X: ABCD10509
+D: ([2-9]11|*xx|xx#|[1-9]*|9xxx|[1-9]xxxxxxx|01xxxxxxxxxx|00x.T|101xxxx00x.T|101xxxx020T|090T|020T)
+S: dl
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,228,mgcp,"RQNT 10509 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf, [0-9#*T](D), oc
+X: ABCD10509
+D: ([2-9]11|*xx|xx#|[1-9]*|9xxx|[1-9]xxxxxxx|01xxxxxxxxxx|00x.T|101xxxx00x.T|101xxxx020T|090T|020T)
+S: dl
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,228,mgcp,"RQNT 10509 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf, [0-9#*T](D), oc
+X: ABCD10509
+D: ([2-9]11|*xx|xx#|[1-9]*|9xxx|[1-9]xxxxxxx|01xxxxxxxxxx|00x.T|101xxxx00x.T|101xxxx020T|090T|020T)
+S: dl
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,228,mgcp,"RQNT 10509 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf, [0-9#*T](D), oc
+X: ABCD10509
+D: ([2-9]11|*xx|xx#|[1-9]*|9xxx|[1-9]xxxxxxx|01xxxxxxxxxx|00x.T|101xxxx00x.T|101xxxx020T|090T|020T)
+S: dl
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,228,mgcp,"RQNT 10509 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf, [0-9#*T](D), oc
+X: ABCD10509
+D: ([2-9]11|*xx|xx#|[1-9]*|9xxx|[1-9]xxxxxxx|01xxxxxxxxxx|00x.T|101xxxx00x.T|101xxxx020T|090T|020T)
+S: dl
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,228,mgcp,"RQNT 10509 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf, [0-9#*T](D), oc
+X: ABCD10509
+D: ([2-9]11|*xx|xx#|[1-9]*|9xxx|[1-9]xxxxxxx|01xxxxxxxxxx|00x.T|101xxxx00x.T|101xxxx020T|090T|020T)
+S: dl
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,228,mgcp,"RQNT 10509 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf, [0-9#*T](D), oc
+X: ABCD10509
+D: ([2-9]11|*xx|xx#|[1-9]*|9xxx|[1-9]xxxxxxx|01xxxxxxxxxx|00x.T|101xxxx00x.T|101xxxx020T|090T|020T)
+S: dl
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,228,mgcp,"RQNT 10509 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf, [0-9#*T](D), oc
+X: ABCD10509
+D: ([2-9]11|*xx|xx#|[1-9]*|9xxx|[1-9]xxxxxxx|01xxxxxxxxxx|00x.T|101xxxx00x.T|101xxxx020T|090T|020T)
+S: dl
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,228,mgcp,"RQNT 10509 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf, [0-9#*T](D), oc
+X: ABCD10509
+D: ([2-9]11|*xx|xx#|[1-9]*|9xxx|[1-9]xxxxxxx|01xxxxxxxxxx|00x.T|101xxxx00x.T|101xxxx020T|090T|020T)
+S: dl
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,228,mgcp,"RQNT 10509 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf, [0-9#*T](D), oc
+X: ABCD10509
+D: ([2-9]11|*xx|xx#|[1-9]*|9xxx|[1-9]xxxxxxx|01xxxxxxxxxx|00x.T|101xxxx00x.T|101xxxx020T|090T|020T)
+S: dl
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,228,mgcp,"RQNT 10509 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf, [0-9#*T](D), oc
+X: ABCD10509
+D: ([2-9]11|*xx|xx#|[1-9]*|9xxx|[1-9]xxxxxxx|01xxxxxxxxxx|00x.T|101xxxx00x.T|101xxxx020T|090T|020T)
+S: dl
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,228,mgcp,"RQNT 10509 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf, [0-9#*T](D), oc
+X: ABCD10509
+D: ([2-9]11|*xx|xx#|[1-9]*|9xxx|[1-9]xxxxxxx|01xxxxxxxxxx|00x.T|101xxxx00x.T|101xxxx020T|090T|020T)
+S: dl
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,228,mgcp,"RQNT 10509 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf, [0-9#*T](D), oc
+X: ABCD10509
+D: ([2-9]11|*xx|xx#|[1-9]*|9xxx|[1-9]xxxxxxx|01xxxxxxxxxx|00x.T|101xxxx00x.T|101xxxx020T|090T|020T)
+S: dl
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,228,mgcp,"RQNT 10509 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf, [0-9#*T](D), oc
+X: ABCD10509
+D: ([2-9]11|*xx|xx#|[1-9]*|9xxx|[1-9]xxxxxxx|01xxxxxxxxxx|00x.T|101xxxx00x.T|101xxxx020T|090T|020T)
+S: dl
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,228,mgcp,"RQNT 10509 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf, [0-9#*T](D), oc
+X: ABCD10509
+D: ([2-9]11|*xx|xx#|[1-9]*|9xxx|[1-9]xxxxxxx|01xxxxxxxxxx|00x.T|101xxxx00x.T|101xxxx020T|090T|020T)
+S: dl
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,228,mgcp,"RQNT 10509 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf, [0-9#*T](D), oc
+X: ABCD10509
+D: ([2-9]11|*xx|xx#|[1-9]*|9xxx|[1-9]xxxxxxx|01xxxxxxxxxx|00x.T|101xxxx00x.T|101xxxx020T|090T|020T)
+S: dl
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,228,mgcp,"RQNT 10509 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf, [0-9#*T](D), oc
+X: ABCD10509
+D: ([2-9]11|*xx|xx#|[1-9]*|9xxx|[1-9]xxxxxxx|01xxxxxxxxxx|00x.T|101xxxx00x.T|101xxxx020T|090T|020T)
+S: dl
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,228,mgcp,"RQNT 10509 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf, [0-9#*T](D), oc
+X: ABCD10509
+D: ([2-9]11|*xx|xx#|[1-9]*|9xxx|[1-9]xxxxxxx|01xxxxxxxxxx|00x.T|101xxxx00x.T|101xxxx020T|090T|020T)
+S: dl
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,228,mgcp,"RQNT 10509 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf, [0-9#*T](D), oc
+X: ABCD10509
+D: ([2-9]11|*xx|xx#|[1-9]*|9xxx|[1-9]xxxxxxx|01xxxxxxxxxx|00x.T|101xxxx00x.T|101xxxx020T|090T|020T)
+S: dl
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,228,mgcp,"RQNT 10509 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf, [0-9#*T](D), oc
+X: ABCD10509
+D: ([2-9]11|*xx|xx#|[1-9]*|9xxx|[1-9]xxxxxxx|01xxxxxxxxxx|00x.T|101xxxx00x.T|101xxxx020T|090T|020T)
+S: dl
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,228,mgcp,"RQNT 10509 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf, [0-9#*T](D), oc
+X: ABCD10509
+D: ([2-9]11|*xx|xx#|[1-9]*|9xxx|[1-9]xxxxxxx|01xxxxxxxxxx|00x.T|101xxxx00x.T|101xxxx020T|090T|020T)
+S: dl
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,228,mgcp,"RQNT 10509 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf, [0-9#*T](D), oc
+X: ABCD10509
+D: ([2-9]11|*xx|xx#|[1-9]*|9xxx|[1-9]xxxxxxx|01xxxxxxxxxx|00x.T|101xxxx00x.T|101xxxx020T|090T|020T)
+S: dl
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,228,mgcp,"RQNT 10509 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf, [0-9#*T](D), oc
+X: ABCD10509
+D: ([2-9]11|*xx|xx#|[1-9]*|9xxx|[1-9]xxxxxxx|01xxxxxxxxxx|00x.T|101xxxx00x.T|101xxxx020T|090T|020T)
+S: dl
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,228,mgcp,"RQNT 10509 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf, [0-9#*T](D), oc
+X: ABCD10509
+D: ([2-9]11|*xx|xx#|[1-9]*|9xxx|[1-9]xxxxxxx|01xxxxxxxxxx|00x.T|101xxxx00x.T|101xxxx020T|090T|020T)
+S: dl
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,228,mgcp,"RQNT 10509 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf, [0-9#*T](D), oc
+X: ABCD10509
+D: ([2-9]11|*xx|xx#|[1-9]*|9xxx|[1-9]xxxxxxx|01xxxxxxxxxx|00x.T|101xxxx00x.T|101xxxx020T|090T|020T)
+S: dl
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,228,mgcp,"RQNT 10509 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf, [0-9#*T](D), oc
+X: ABCD10509
+D: ([2-9]11|*xx|xx#|[1-9]*|9xxx|[1-9]xxxxxxx|01xxxxxxxxxx|00x.T|101xxxx00x.T|101xxxx020T|090T|020T)
+S: dl
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,228,mgcp,"RQNT 10509 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf, [0-9#*T](D), oc
+X: ABCD10509
+D: ([2-9]11|*xx|xx#|[1-9]*|9xxx|[1-9]xxxxxxx|01xxxxxxxxxx|00x.T|101xxxx00x.T|101xxxx020T|090T|020T)
+S: dl
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,228,mgcp,"RQNT 10509 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf, [0-9#*T](D), oc
+X: ABCD10509
+D: ([2-9]11|*xx|xx#|[1-9]*|9xxx|[1-9]xxxxxxx|01xxxxxxxxxx|00x.T|101xxxx00x.T|101xxxx020T|090T|020T)
+S: dl
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,228,mgcp,"RQNT 10509 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf, [0-9#*T](D), oc
+X: ABCD10509
+D: ([2-9]11|*xx|xx#|[1-9]*|9xxx|[1-9]xxxxxxx|01xxxxxxxxxx|00x.T|101xxxx00x.T|101xxxx020T|090T|020T)
+S: dl
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,228,mgcp,"RQNT 10509 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf, [0-9#*T](D), oc
+X: ABCD10509
+D: ([2-9]11|*xx|xx#|[1-9]*|9xxx|[1-9]xxxxxxx|01xxxxxxxxxx|00x.T|101xxxx00x.T|101xxxx020T|090T|020T)
+S: dl
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,228,mgcp,"RQNT 10509 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf, [0-9#*T](D), oc
+X: ABCD10509
+D: ([2-9]11|*xx|xx#|[1-9]*|9xxx|[1-9]xxxxxxx|01xxxxxxxxxx|00x.T|101xxxx00x.T|101xxxx020T|090T|020T)
+S: dl
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10508 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10508 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10508 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10508 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10508 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10508 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10508 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10508 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10508 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10508 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10508 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10508 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10508 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10508 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10508 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10508 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10508 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10508 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10508 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10508 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10508 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10508 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10508 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10508 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10508 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10508 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10508 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10508 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10508 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10508 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10508 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10508 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10508 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10508 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10508 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10508 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10508 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10508 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10508 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10508 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10508 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10508 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10508 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10508 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10508 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10508 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10508 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10508 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10509 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10509 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10509 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10509 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10509 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10509 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10509 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10509 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10509 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10509 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10509 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10509 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10509 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10509 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10509 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10509 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10509 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10509 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10509 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10509 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10509 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10509 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10509 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10509 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10509 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10509 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10509 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10509 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10509 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10509 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10509 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10509 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10509 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10509 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10509 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10509 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10509 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10509 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10509 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10509 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10509 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10509 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10509 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10509 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10509 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10509 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10509 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10509 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12220 aaln/3@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12220 aaln/3@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12220 aaln/3@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12220 aaln/3@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12220 aaln/3@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12220 aaln/3@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12220 aaln/3@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12220 aaln/3@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12220 aaln/3@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12220 aaln/3@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12220 aaln/3@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12220 aaln/3@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12220 aaln/3@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12220 aaln/3@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12220 aaln/3@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12220 aaln/3@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12220 aaln/3@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12220 aaln/3@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12220 aaln/3@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12220 aaln/3@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12220 aaln/3@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12220 aaln/3@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12220 aaln/3@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12220 aaln/3@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12220 aaln/3@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12220 aaln/3@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12220 aaln/3@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12220 aaln/3@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12220 aaln/3@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12220 aaln/3@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12220 aaln/3@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12220 aaln/3@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12220 aaln/3@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12220 aaln/3@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12220 aaln/3@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12220 aaln/3@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12220 aaln/3@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12220 aaln/3@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12220 aaln/3@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12220 aaln/3@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12220 aaln/3@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12220 aaln/3@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12220 aaln/3@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12220 aaln/3@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12220 aaln/3@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12220 aaln/3@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12220 aaln/3@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12220 aaln/3@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12220 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12220 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12220 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12220 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12220 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12220 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12220 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12220 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12220 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12220 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12220 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12220 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12220 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12220 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12220 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12220 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12220 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12220 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12220 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12220 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12220 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12220 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12220 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12220 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12220 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12220 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12220 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12220 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12220 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12220 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12220 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12220 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12220 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12220 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12220 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12220 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12220 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12220 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12220 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12220 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12220 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12220 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12220 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12220 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12220 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12220 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12220 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12220 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12221 aaln/4@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12221 aaln/4@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12221 aaln/4@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12221 aaln/4@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12221 aaln/4@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12221 aaln/4@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12221 aaln/4@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12221 aaln/4@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12221 aaln/4@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12221 aaln/4@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12221 aaln/4@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12221 aaln/4@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12221 aaln/4@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12221 aaln/4@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12221 aaln/4@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12221 aaln/4@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12221 aaln/4@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12221 aaln/4@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12221 aaln/4@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12221 aaln/4@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12221 aaln/4@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12221 aaln/4@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12221 aaln/4@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12221 aaln/4@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12221 aaln/4@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12221 aaln/4@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12221 aaln/4@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12221 aaln/4@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12221 aaln/4@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12221 aaln/4@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12221 aaln/4@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12221 aaln/4@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12221 aaln/4@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12221 aaln/4@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12221 aaln/4@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12221 aaln/4@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12221 aaln/4@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12221 aaln/4@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12221 aaln/4@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12221 aaln/4@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12221 aaln/4@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12221 aaln/4@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12221 aaln/4@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12221 aaln/4@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12221 aaln/4@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12221 aaln/4@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12221 aaln/4@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,94,mgcp,"RSIP 12221 aaln/4@CPG2 MGCP 1.0 NCS 1.0
+RM: restart
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12221 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12221 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12221 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12221 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12221 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12221 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12221 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12221 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12221 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12221 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12221 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12221 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12221 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12221 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12221 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12221 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12221 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12221 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12221 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12221 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12221 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12221 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12221 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12221 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12221 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12221 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12221 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12221 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12221 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12221 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12221 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12221 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12221 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12221 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12221 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12221 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12221 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12221 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12221 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12221 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12221 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12221 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12221 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12221 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12221 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12221 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12221 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"400 12221 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,106,mgcp,"NTFY 12222 aaln/1@CPG2 MGCP 1.0 NCS 1.0
+X: ABCD10509
+O: 9,0,0,5
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,106,mgcp,"NTFY 12222 aaln/1@CPG2 MGCP 1.0 NCS 1.0
+X: ABCD10509
+O: 9,0,0,5
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,106,mgcp,"NTFY 12222 aaln/1@CPG2 MGCP 1.0 NCS 1.0
+X: ABCD10509
+O: 9,0,0,5
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,106,mgcp,"NTFY 12222 aaln/1@CPG2 MGCP 1.0 NCS 1.0
+X: ABCD10509
+O: 9,0,0,5
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,106,mgcp,"NTFY 12222 aaln/1@CPG2 MGCP 1.0 NCS 1.0
+X: ABCD10509
+O: 9,0,0,5
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,106,mgcp,"NTFY 12222 aaln/1@CPG2 MGCP 1.0 NCS 1.0
+X: ABCD10509
+O: 9,0,0,5
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,106,mgcp,"NTFY 12222 aaln/1@CPG2 MGCP 1.0 NCS 1.0
+X: ABCD10509
+O: 9,0,0,5
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,106,mgcp,"NTFY 12222 aaln/1@CPG2 MGCP 1.0 NCS 1.0
+X: ABCD10509
+O: 9,0,0,5
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,106,mgcp,"NTFY 12222 aaln/1@CPG2 MGCP 1.0 NCS 1.0
+X: ABCD10509
+O: 9,0,0,5
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,106,mgcp,"NTFY 12222 aaln/1@CPG2 MGCP 1.0 NCS 1.0
+X: ABCD10509
+O: 9,0,0,5
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,106,mgcp,"NTFY 12222 aaln/1@CPG2 MGCP 1.0 NCS 1.0
+X: ABCD10509
+O: 9,0,0,5
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,106,mgcp,"NTFY 12222 aaln/1@CPG2 MGCP 1.0 NCS 1.0
+X: ABCD10509
+O: 9,0,0,5
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,106,mgcp,"NTFY 12222 aaln/1@CPG2 MGCP 1.0 NCS 1.0
+X: ABCD10509
+O: 9,0,0,5
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,106,mgcp,"NTFY 12222 aaln/1@CPG2 MGCP 1.0 NCS 1.0
+X: ABCD10509
+O: 9,0,0,5
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,106,mgcp,"NTFY 12222 aaln/1@CPG2 MGCP 1.0 NCS 1.0
+X: ABCD10509
+O: 9,0,0,5
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,106,mgcp,"NTFY 12222 aaln/1@CPG2 MGCP 1.0 NCS 1.0
+X: ABCD10509
+O: 9,0,0,5
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,106,mgcp,"NTFY 12222 aaln/1@CPG2 MGCP 1.0 NCS 1.0
+X: ABCD10509
+O: 9,0,0,5
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,106,mgcp,"NTFY 12222 aaln/1@CPG2 MGCP 1.0 NCS 1.0
+X: ABCD10509
+O: 9,0,0,5
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,106,mgcp,"NTFY 12222 aaln/1@CPG2 MGCP 1.0 NCS 1.0
+X: ABCD10509
+O: 9,0,0,5
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,106,mgcp,"NTFY 12222 aaln/1@CPG2 MGCP 1.0 NCS 1.0
+X: ABCD10509
+O: 9,0,0,5
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,106,mgcp,"NTFY 12222 aaln/1@CPG2 MGCP 1.0 NCS 1.0
+X: ABCD10509
+O: 9,0,0,5
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,106,mgcp,"NTFY 12222 aaln/1@CPG2 MGCP 1.0 NCS 1.0
+X: ABCD10509
+O: 9,0,0,5
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,106,mgcp,"NTFY 12222 aaln/1@CPG2 MGCP 1.0 NCS 1.0
+X: ABCD10509
+O: 9,0,0,5
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,106,mgcp,"NTFY 12222 aaln/1@CPG2 MGCP 1.0 NCS 1.0
+X: ABCD10509
+O: 9,0,0,5
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,106,mgcp,"NTFY 12222 aaln/1@CPG2 MGCP 1.0 NCS 1.0
+X: ABCD10509
+O: 9,0,0,5
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,106,mgcp,"NTFY 12222 aaln/1@CPG2 MGCP 1.0 NCS 1.0
+X: ABCD10509
+O: 9,0,0,5
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,106,mgcp,"NTFY 12222 aaln/1@CPG2 MGCP 1.0 NCS 1.0
+X: ABCD10509
+O: 9,0,0,5
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,106,mgcp,"NTFY 12222 aaln/1@CPG2 MGCP 1.0 NCS 1.0
+X: ABCD10509
+O: 9,0,0,5
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,106,mgcp,"NTFY 12222 aaln/1@CPG2 MGCP 1.0 NCS 1.0
+X: ABCD10509
+O: 9,0,0,5
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,106,mgcp,"NTFY 12222 aaln/1@CPG2 MGCP 1.0 NCS 1.0
+X: ABCD10509
+O: 9,0,0,5
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,106,mgcp,"NTFY 12222 aaln/1@CPG2 MGCP 1.0 NCS 1.0
+X: ABCD10509
+O: 9,0,0,5
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,106,mgcp,"NTFY 12222 aaln/1@CPG2 MGCP 1.0 NCS 1.0
+X: ABCD10509
+O: 9,0,0,5
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,106,mgcp,"NTFY 12222 aaln/1@CPG2 MGCP 1.0 NCS 1.0
+X: ABCD10509
+O: 9,0,0,5
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,106,mgcp,"NTFY 12222 aaln/1@CPG2 MGCP 1.0 NCS 1.0
+X: ABCD10509
+O: 9,0,0,5
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,106,mgcp,"NTFY 12222 aaln/1@CPG2 MGCP 1.0 NCS 1.0
+X: ABCD10509
+O: 9,0,0,5
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,106,mgcp,"NTFY 12222 aaln/1@CPG2 MGCP 1.0 NCS 1.0
+X: ABCD10509
+O: 9,0,0,5
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,106,mgcp,"NTFY 12222 aaln/1@CPG2 MGCP 1.0 NCS 1.0
+X: ABCD10509
+O: 9,0,0,5
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,106,mgcp,"NTFY 12222 aaln/1@CPG2 MGCP 1.0 NCS 1.0
+X: ABCD10509
+O: 9,0,0,5
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,106,mgcp,"NTFY 12222 aaln/1@CPG2 MGCP 1.0 NCS 1.0
+X: ABCD10509
+O: 9,0,0,5
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,106,mgcp,"NTFY 12222 aaln/1@CPG2 MGCP 1.0 NCS 1.0
+X: ABCD10509
+O: 9,0,0,5
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,106,mgcp,"NTFY 12222 aaln/1@CPG2 MGCP 1.0 NCS 1.0
+X: ABCD10509
+O: 9,0,0,5
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,106,mgcp,"NTFY 12222 aaln/1@CPG2 MGCP 1.0 NCS 1.0
+X: ABCD10509
+O: 9,0,0,5
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,106,mgcp,"NTFY 12222 aaln/1@CPG2 MGCP 1.0 NCS 1.0
+X: ABCD10509
+O: 9,0,0,5
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,106,mgcp,"NTFY 12222 aaln/1@CPG2 MGCP 1.0 NCS 1.0
+X: ABCD10509
+O: 9,0,0,5
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,106,mgcp,"NTFY 12222 aaln/1@CPG2 MGCP 1.0 NCS 1.0
+X: ABCD10509
+O: 9,0,0,5
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,106,mgcp,"NTFY 12222 aaln/1@CPG2 MGCP 1.0 NCS 1.0
+X: ABCD10509
+O: 9,0,0,5
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,106,mgcp,"NTFY 12222 aaln/1@CPG2 MGCP 1.0 NCS 1.0
+X: ABCD10509
+O: 9,0,0,5
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,106,mgcp,"NTFY 12222 aaln/1@CPG2 MGCP 1.0 NCS 1.0
+X: ABCD10509
+O: 9,0,0,5
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"200 12222 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"200 12222 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"200 12222 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"200 12222 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"200 12222 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"200 12222 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"200 12222 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"200 12222 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"200 12222 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"200 12222 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"200 12222 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"200 12222 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"200 12222 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"200 12222 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"200 12222 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"200 12222 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"200 12222 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"200 12222 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"200 12222 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"200 12222 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"200 12222 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"200 12222 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"200 12222 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"200 12222 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"200 12222 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"200 12222 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"200 12222 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"200 12222 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"200 12222 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"200 12222 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"200 12222 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"200 12222 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"200 12222 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"200 12222 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"200 12222 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"200 12222 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"200 12222 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"200 12222 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"200 12222 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"200 12222 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"200 12222 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"200 12222 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"200 12222 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"200 12222 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"200 12222 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"200 12222 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"200 12222 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"200 12222 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,105,mgcp,"RQNT 10510 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf
+X: ABCD10510
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,105,mgcp,"RQNT 10510 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf
+X: ABCD10510
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,105,mgcp,"RQNT 10510 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf
+X: ABCD10510
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,105,mgcp,"RQNT 10510 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf
+X: ABCD10510
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,105,mgcp,"RQNT 10510 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf
+X: ABCD10510
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,105,mgcp,"RQNT 10510 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf
+X: ABCD10510
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,105,mgcp,"RQNT 10510 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf
+X: ABCD10510
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,105,mgcp,"RQNT 10510 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf
+X: ABCD10510
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,105,mgcp,"RQNT 10510 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf
+X: ABCD10510
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,105,mgcp,"RQNT 10510 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf
+X: ABCD10510
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,105,mgcp,"RQNT 10510 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf
+X: ABCD10510
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,105,mgcp,"RQNT 10510 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf
+X: ABCD10510
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,105,mgcp,"RQNT 10510 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf
+X: ABCD10510
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,105,mgcp,"RQNT 10510 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf
+X: ABCD10510
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,105,mgcp,"RQNT 10510 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf
+X: ABCD10510
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,105,mgcp,"RQNT 10510 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf
+X: ABCD10510
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,105,mgcp,"RQNT 10510 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf
+X: ABCD10510
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,105,mgcp,"RQNT 10510 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf
+X: ABCD10510
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,105,mgcp,"RQNT 10510 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf
+X: ABCD10510
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,105,mgcp,"RQNT 10510 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf
+X: ABCD10510
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,105,mgcp,"RQNT 10510 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf
+X: ABCD10510
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,105,mgcp,"RQNT 10510 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf
+X: ABCD10510
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,105,mgcp,"RQNT 10510 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf
+X: ABCD10510
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,105,mgcp,"RQNT 10510 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf
+X: ABCD10510
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,105,mgcp,"RQNT 10510 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf
+X: ABCD10510
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,105,mgcp,"RQNT 10510 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf
+X: ABCD10510
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,105,mgcp,"RQNT 10510 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf
+X: ABCD10510
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,105,mgcp,"RQNT 10510 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf
+X: ABCD10510
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,105,mgcp,"RQNT 10510 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf
+X: ABCD10510
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,105,mgcp,"RQNT 10510 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf
+X: ABCD10510
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,105,mgcp,"RQNT 10510 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf
+X: ABCD10510
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,105,mgcp,"RQNT 10510 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf
+X: ABCD10510
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,105,mgcp,"RQNT 10510 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf
+X: ABCD10510
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,105,mgcp,"RQNT 10510 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf
+X: ABCD10510
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,105,mgcp,"RQNT 10510 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf
+X: ABCD10510
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,105,mgcp,"RQNT 10510 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf
+X: ABCD10510
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,105,mgcp,"RQNT 10510 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf
+X: ABCD10510
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,105,mgcp,"RQNT 10510 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf
+X: ABCD10510
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,105,mgcp,"RQNT 10510 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf
+X: ABCD10510
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,105,mgcp,"RQNT 10510 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf
+X: ABCD10510
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,105,mgcp,"RQNT 10510 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf
+X: ABCD10510
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,105,mgcp,"RQNT 10510 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf
+X: ABCD10510
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,105,mgcp,"RQNT 10510 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf
+X: ABCD10510
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,105,mgcp,"RQNT 10510 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf
+X: ABCD10510
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,105,mgcp,"RQNT 10510 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf
+X: ABCD10510
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,105,mgcp,"RQNT 10510 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf
+X: ABCD10510
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,105,mgcp,"RQNT 10510 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf
+X: ABCD10510
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,105,mgcp,"RQNT 10510 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf
+X: ABCD10510
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10510 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10510 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10510 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10510 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10510 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10510 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10510 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10510 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10510 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10510 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10510 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10510 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10510 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10510 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10510 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10510 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10510 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10510 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10510 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10510 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10510 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10510 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10510 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10510 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10510 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10510 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10510 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10510 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10510 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10510 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10510 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10510 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10510 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10510 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10510 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10510 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10510 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10510 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10510 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10510 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10510 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10510 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10510 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10510 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10510 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10510 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10510 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10510 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,187,mgcp,"CRCX 10511 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+C: ABCD000068
+L: p:20, a:PCMA, e:on, s:on
+M: sendrecv
+
+v=0
+c=IN IP4 200.57.7.196
+m=audio 40362 RTP/AVP 0
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,187,mgcp,"CRCX 10511 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+C: ABCD000068
+L: p:20, a:PCMA, e:on, s:on
+M: sendrecv
+
+v=0
+c=IN IP4 200.57.7.196
+m=audio 40362 RTP/AVP 0
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,187,mgcp,"CRCX 10511 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+C: ABCD000068
+L: p:20, a:PCMA, e:on, s:on
+M: sendrecv
+
+v=0
+c=IN IP4 200.57.7.196
+m=audio 40362 RTP/AVP 0
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,187,mgcp,"CRCX 10511 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+C: ABCD000068
+L: p:20, a:PCMA, e:on, s:on
+M: sendrecv
+
+v=0
+c=IN IP4 200.57.7.196
+m=audio 40362 RTP/AVP 0
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,187,mgcp,"CRCX 10511 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+C: ABCD000068
+L: p:20, a:PCMA, e:on, s:on
+M: sendrecv
+
+v=0
+c=IN IP4 200.57.7.196
+m=audio 40362 RTP/AVP 0
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,187,mgcp,"CRCX 10511 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+C: ABCD000068
+L: p:20, a:PCMA, e:on, s:on
+M: sendrecv
+
+v=0
+c=IN IP4 200.57.7.196
+m=audio 40362 RTP/AVP 0
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,187,mgcp,"CRCX 10511 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+C: ABCD000068
+L: p:20, a:PCMA, e:on, s:on
+M: sendrecv
+
+v=0
+c=IN IP4 200.57.7.196
+m=audio 40362 RTP/AVP 0
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,187,mgcp,"CRCX 10511 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+C: ABCD000068
+L: p:20, a:PCMA, e:on, s:on
+M: sendrecv
+
+v=0
+c=IN IP4 200.57.7.196
+m=audio 40362 RTP/AVP 0
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,187,mgcp,"CRCX 10511 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+C: ABCD000068
+L: p:20, a:PCMA, e:on, s:on
+M: sendrecv
+
+v=0
+c=IN IP4 200.57.7.196
+m=audio 40362 RTP/AVP 0
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,187,mgcp,"CRCX 10511 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+C: ABCD000068
+L: p:20, a:PCMA, e:on, s:on
+M: sendrecv
+
+v=0
+c=IN IP4 200.57.7.196
+m=audio 40362 RTP/AVP 0
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,187,mgcp,"CRCX 10511 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+C: ABCD000068
+L: p:20, a:PCMA, e:on, s:on
+M: sendrecv
+
+v=0
+c=IN IP4 200.57.7.196
+m=audio 40362 RTP/AVP 0
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,187,mgcp,"CRCX 10511 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+C: ABCD000068
+L: p:20, a:PCMA, e:on, s:on
+M: sendrecv
+
+v=0
+c=IN IP4 200.57.7.196
+m=audio 40362 RTP/AVP 0
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,187,mgcp,"CRCX 10511 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+C: ABCD000068
+L: p:20, a:PCMA, e:on, s:on
+M: sendrecv
+
+v=0
+c=IN IP4 200.57.7.196
+m=audio 40362 RTP/AVP 0
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,187,mgcp,"CRCX 10511 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+C: ABCD000068
+L: p:20, a:PCMA, e:on, s:on
+M: sendrecv
+
+v=0
+c=IN IP4 200.57.7.196
+m=audio 40362 RTP/AVP 0
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,187,mgcp,"CRCX 10511 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+C: ABCD000068
+L: p:20, a:PCMA, e:on, s:on
+M: sendrecv
+
+v=0
+c=IN IP4 200.57.7.196
+m=audio 40362 RTP/AVP 0
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,187,mgcp,"CRCX 10511 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+C: ABCD000068
+L: p:20, a:PCMA, e:on, s:on
+M: sendrecv
+
+v=0
+c=IN IP4 200.57.7.196
+m=audio 40362 RTP/AVP 0
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,187,mgcp,"CRCX 10511 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+C: ABCD000068
+L: p:20, a:PCMA, e:on, s:on
+M: sendrecv
+
+v=0
+c=IN IP4 200.57.7.196
+m=audio 40362 RTP/AVP 0
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,187,mgcp,"CRCX 10511 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+C: ABCD000068
+L: p:20, a:PCMA, e:on, s:on
+M: sendrecv
+
+v=0
+c=IN IP4 200.57.7.196
+m=audio 40362 RTP/AVP 0
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,187,mgcp,"CRCX 10511 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+C: ABCD000068
+L: p:20, a:PCMA, e:on, s:on
+M: sendrecv
+
+v=0
+c=IN IP4 200.57.7.196
+m=audio 40362 RTP/AVP 0
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,187,mgcp,"CRCX 10511 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+C: ABCD000068
+L: p:20, a:PCMA, e:on, s:on
+M: sendrecv
+
+v=0
+c=IN IP4 200.57.7.196
+m=audio 40362 RTP/AVP 0
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,187,mgcp,"CRCX 10511 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+C: ABCD000068
+L: p:20, a:PCMA, e:on, s:on
+M: sendrecv
+
+v=0
+c=IN IP4 200.57.7.196
+m=audio 40362 RTP/AVP 0
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,187,mgcp,"CRCX 10511 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+C: ABCD000068
+L: p:20, a:PCMA, e:on, s:on
+M: sendrecv
+
+v=0
+c=IN IP4 200.57.7.196
+m=audio 40362 RTP/AVP 0
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,187,mgcp,"CRCX 10511 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+C: ABCD000068
+L: p:20, a:PCMA, e:on, s:on
+M: sendrecv
+
+v=0
+c=IN IP4 200.57.7.196
+m=audio 40362 RTP/AVP 0
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,187,mgcp,"CRCX 10511 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+C: ABCD000068
+L: p:20, a:PCMA, e:on, s:on
+M: sendrecv
+
+v=0
+c=IN IP4 200.57.7.196
+m=audio 40362 RTP/AVP 0
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,187,mgcp,"CRCX 10511 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+C: ABCD000068
+L: p:20, a:PCMA, e:on, s:on
+M: sendrecv
+
+v=0
+c=IN IP4 200.57.7.196
+m=audio 40362 RTP/AVP 0
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,187,mgcp,"CRCX 10511 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+C: ABCD000068
+L: p:20, a:PCMA, e:on, s:on
+M: sendrecv
+
+v=0
+c=IN IP4 200.57.7.196
+m=audio 40362 RTP/AVP 0
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,187,mgcp,"CRCX 10511 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+C: ABCD000068
+L: p:20, a:PCMA, e:on, s:on
+M: sendrecv
+
+v=0
+c=IN IP4 200.57.7.196
+m=audio 40362 RTP/AVP 0
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,187,mgcp,"CRCX 10511 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+C: ABCD000068
+L: p:20, a:PCMA, e:on, s:on
+M: sendrecv
+
+v=0
+c=IN IP4 200.57.7.196
+m=audio 40362 RTP/AVP 0
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,187,mgcp,"CRCX 10511 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+C: ABCD000068
+L: p:20, a:PCMA, e:on, s:on
+M: sendrecv
+
+v=0
+c=IN IP4 200.57.7.196
+m=audio 40362 RTP/AVP 0
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,187,mgcp,"CRCX 10511 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+C: ABCD000068
+L: p:20, a:PCMA, e:on, s:on
+M: sendrecv
+
+v=0
+c=IN IP4 200.57.7.196
+m=audio 40362 RTP/AVP 0
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,187,mgcp,"CRCX 10511 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+C: ABCD000068
+L: p:20, a:PCMA, e:on, s:on
+M: sendrecv
+
+v=0
+c=IN IP4 200.57.7.196
+m=audio 40362 RTP/AVP 0
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,187,mgcp,"CRCX 10511 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+C: ABCD000068
+L: p:20, a:PCMA, e:on, s:on
+M: sendrecv
+
+v=0
+c=IN IP4 200.57.7.196
+m=audio 40362 RTP/AVP 0
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,187,mgcp,"CRCX 10511 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+C: ABCD000068
+L: p:20, a:PCMA, e:on, s:on
+M: sendrecv
+
+v=0
+c=IN IP4 200.57.7.196
+m=audio 40362 RTP/AVP 0
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,187,mgcp,"CRCX 10511 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+C: ABCD000068
+L: p:20, a:PCMA, e:on, s:on
+M: sendrecv
+
+v=0
+c=IN IP4 200.57.7.196
+m=audio 40362 RTP/AVP 0
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,187,mgcp,"CRCX 10511 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+C: ABCD000068
+L: p:20, a:PCMA, e:on, s:on
+M: sendrecv
+
+v=0
+c=IN IP4 200.57.7.196
+m=audio 40362 RTP/AVP 0
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,187,mgcp,"CRCX 10511 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+C: ABCD000068
+L: p:20, a:PCMA, e:on, s:on
+M: sendrecv
+
+v=0
+c=IN IP4 200.57.7.196
+m=audio 40362 RTP/AVP 0
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,187,mgcp,"CRCX 10511 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+C: ABCD000068
+L: p:20, a:PCMA, e:on, s:on
+M: sendrecv
+
+v=0
+c=IN IP4 200.57.7.196
+m=audio 40362 RTP/AVP 0
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,187,mgcp,"CRCX 10511 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+C: ABCD000068
+L: p:20, a:PCMA, e:on, s:on
+M: sendrecv
+
+v=0
+c=IN IP4 200.57.7.196
+m=audio 40362 RTP/AVP 0
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,187,mgcp,"CRCX 10511 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+C: ABCD000068
+L: p:20, a:PCMA, e:on, s:on
+M: sendrecv
+
+v=0
+c=IN IP4 200.57.7.196
+m=audio 40362 RTP/AVP 0
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,187,mgcp,"CRCX 10511 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+C: ABCD000068
+L: p:20, a:PCMA, e:on, s:on
+M: sendrecv
+
+v=0
+c=IN IP4 200.57.7.196
+m=audio 40362 RTP/AVP 0
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,187,mgcp,"CRCX 10511 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+C: ABCD000068
+L: p:20, a:PCMA, e:on, s:on
+M: sendrecv
+
+v=0
+c=IN IP4 200.57.7.196
+m=audio 40362 RTP/AVP 0
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,187,mgcp,"CRCX 10511 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+C: ABCD000068
+L: p:20, a:PCMA, e:on, s:on
+M: sendrecv
+
+v=0
+c=IN IP4 200.57.7.196
+m=audio 40362 RTP/AVP 0
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,187,mgcp,"CRCX 10511 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+C: ABCD000068
+L: p:20, a:PCMA, e:on, s:on
+M: sendrecv
+
+v=0
+c=IN IP4 200.57.7.196
+m=audio 40362 RTP/AVP 0
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,187,mgcp,"CRCX 10511 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+C: ABCD000068
+L: p:20, a:PCMA, e:on, s:on
+M: sendrecv
+
+v=0
+c=IN IP4 200.57.7.196
+m=audio 40362 RTP/AVP 0
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,187,mgcp,"CRCX 10511 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+C: ABCD000068
+L: p:20, a:PCMA, e:on, s:on
+M: sendrecv
+
+v=0
+c=IN IP4 200.57.7.196
+m=audio 40362 RTP/AVP 0
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,187,mgcp,"CRCX 10511 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+C: ABCD000068
+L: p:20, a:PCMA, e:on, s:on
+M: sendrecv
+
+v=0
+c=IN IP4 200.57.7.196
+m=audio 40362 RTP/AVP 0
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,187,mgcp,"CRCX 10511 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+C: ABCD000068
+L: p:20, a:PCMA, e:on, s:on
+M: sendrecv
+
+v=0
+c=IN IP4 200.57.7.196
+m=audio 40362 RTP/AVP 0
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,187,mgcp,"CRCX 10511 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+C: ABCD000068
+L: p:20, a:PCMA, e:on, s:on
+M: sendrecv
+
+v=0
+c=IN IP4 200.57.7.196
+m=audio 40362 RTP/AVP 0
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,112,mgcp,"200 10511 OK
+I: 7c
+
+v=0
+c=IN IP4 200.57.7.202
+m=audio 30000 RTP/AVP 8
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,112,mgcp,"200 10511 OK
+I: 7c
+
+v=0
+c=IN IP4 200.57.7.202
+m=audio 30000 RTP/AVP 8
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,112,mgcp,"200 10511 OK
+I: 7c
+
+v=0
+c=IN IP4 200.57.7.202
+m=audio 30000 RTP/AVP 8
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,112,mgcp,"200 10511 OK
+I: 7c
+
+v=0
+c=IN IP4 200.57.7.202
+m=audio 30000 RTP/AVP 8
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,112,mgcp,"200 10511 OK
+I: 7c
+
+v=0
+c=IN IP4 200.57.7.202
+m=audio 30000 RTP/AVP 8
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,112,mgcp,"200 10511 OK
+I: 7c
+
+v=0
+c=IN IP4 200.57.7.202
+m=audio 30000 RTP/AVP 8
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,112,mgcp,"200 10511 OK
+I: 7c
+
+v=0
+c=IN IP4 200.57.7.202
+m=audio 30000 RTP/AVP 8
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,112,mgcp,"200 10511 OK
+I: 7c
+
+v=0
+c=IN IP4 200.57.7.202
+m=audio 30000 RTP/AVP 8
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,112,mgcp,"200 10511 OK
+I: 7c
+
+v=0
+c=IN IP4 200.57.7.202
+m=audio 30000 RTP/AVP 8
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,112,mgcp,"200 10511 OK
+I: 7c
+
+v=0
+c=IN IP4 200.57.7.202
+m=audio 30000 RTP/AVP 8
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,112,mgcp,"200 10511 OK
+I: 7c
+
+v=0
+c=IN IP4 200.57.7.202
+m=audio 30000 RTP/AVP 8
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,112,mgcp,"200 10511 OK
+I: 7c
+
+v=0
+c=IN IP4 200.57.7.202
+m=audio 30000 RTP/AVP 8
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,112,mgcp,"200 10511 OK
+I: 7c
+
+v=0
+c=IN IP4 200.57.7.202
+m=audio 30000 RTP/AVP 8
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,112,mgcp,"200 10511 OK
+I: 7c
+
+v=0
+c=IN IP4 200.57.7.202
+m=audio 30000 RTP/AVP 8
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,112,mgcp,"200 10511 OK
+I: 7c
+
+v=0
+c=IN IP4 200.57.7.202
+m=audio 30000 RTP/AVP 8
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,112,mgcp,"200 10511 OK
+I: 7c
+
+v=0
+c=IN IP4 200.57.7.202
+m=audio 30000 RTP/AVP 8
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,112,mgcp,"200 10511 OK
+I: 7c
+
+v=0
+c=IN IP4 200.57.7.202
+m=audio 30000 RTP/AVP 8
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,112,mgcp,"200 10511 OK
+I: 7c
+
+v=0
+c=IN IP4 200.57.7.202
+m=audio 30000 RTP/AVP 8
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,112,mgcp,"200 10511 OK
+I: 7c
+
+v=0
+c=IN IP4 200.57.7.202
+m=audio 30000 RTP/AVP 8
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,112,mgcp,"200 10511 OK
+I: 7c
+
+v=0
+c=IN IP4 200.57.7.202
+m=audio 30000 RTP/AVP 8
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,112,mgcp,"200 10511 OK
+I: 7c
+
+v=0
+c=IN IP4 200.57.7.202
+m=audio 30000 RTP/AVP 8
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,112,mgcp,"200 10511 OK
+I: 7c
+
+v=0
+c=IN IP4 200.57.7.202
+m=audio 30000 RTP/AVP 8
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,112,mgcp,"200 10511 OK
+I: 7c
+
+v=0
+c=IN IP4 200.57.7.202
+m=audio 30000 RTP/AVP 8
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,112,mgcp,"200 10511 OK
+I: 7c
+
+v=0
+c=IN IP4 200.57.7.202
+m=audio 30000 RTP/AVP 8
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,112,mgcp,"200 10511 OK
+I: 7c
+
+v=0
+c=IN IP4 200.57.7.202
+m=audio 30000 RTP/AVP 8
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,112,mgcp,"200 10511 OK
+I: 7c
+
+v=0
+c=IN IP4 200.57.7.202
+m=audio 30000 RTP/AVP 8
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,112,mgcp,"200 10511 OK
+I: 7c
+
+v=0
+c=IN IP4 200.57.7.202
+m=audio 30000 RTP/AVP 8
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,112,mgcp,"200 10511 OK
+I: 7c
+
+v=0
+c=IN IP4 200.57.7.202
+m=audio 30000 RTP/AVP 8
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,112,mgcp,"200 10511 OK
+I: 7c
+
+v=0
+c=IN IP4 200.57.7.202
+m=audio 30000 RTP/AVP 8
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,112,mgcp,"200 10511 OK
+I: 7c
+
+v=0
+c=IN IP4 200.57.7.202
+m=audio 30000 RTP/AVP 8
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,112,mgcp,"200 10511 OK
+I: 7c
+
+v=0
+c=IN IP4 200.57.7.202
+m=audio 30000 RTP/AVP 8
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,112,mgcp,"200 10511 OK
+I: 7c
+
+v=0
+c=IN IP4 200.57.7.202
+m=audio 30000 RTP/AVP 8
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,112,mgcp,"200 10511 OK
+I: 7c
+
+v=0
+c=IN IP4 200.57.7.202
+m=audio 30000 RTP/AVP 8
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,112,mgcp,"200 10511 OK
+I: 7c
+
+v=0
+c=IN IP4 200.57.7.202
+m=audio 30000 RTP/AVP 8
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,112,mgcp,"200 10511 OK
+I: 7c
+
+v=0
+c=IN IP4 200.57.7.202
+m=audio 30000 RTP/AVP 8
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,112,mgcp,"200 10511 OK
+I: 7c
+
+v=0
+c=IN IP4 200.57.7.202
+m=audio 30000 RTP/AVP 8
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,112,mgcp,"200 10511 OK
+I: 7c
+
+v=0
+c=IN IP4 200.57.7.202
+m=audio 30000 RTP/AVP 8
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,112,mgcp,"200 10511 OK
+I: 7c
+
+v=0
+c=IN IP4 200.57.7.202
+m=audio 30000 RTP/AVP 8
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,112,mgcp,"200 10511 OK
+I: 7c
+
+v=0
+c=IN IP4 200.57.7.202
+m=audio 30000 RTP/AVP 8
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,112,mgcp,"200 10511 OK
+I: 7c
+
+v=0
+c=IN IP4 200.57.7.202
+m=audio 30000 RTP/AVP 8
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,112,mgcp,"200 10511 OK
+I: 7c
+
+v=0
+c=IN IP4 200.57.7.202
+m=audio 30000 RTP/AVP 8
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,112,mgcp,"200 10511 OK
+I: 7c
+
+v=0
+c=IN IP4 200.57.7.202
+m=audio 30000 RTP/AVP 8
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,112,mgcp,"200 10511 OK
+I: 7c
+
+v=0
+c=IN IP4 200.57.7.202
+m=audio 30000 RTP/AVP 8
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,112,mgcp,"200 10511 OK
+I: 7c
+
+v=0
+c=IN IP4 200.57.7.202
+m=audio 30000 RTP/AVP 8
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,112,mgcp,"200 10511 OK
+I: 7c
+
+v=0
+c=IN IP4 200.57.7.202
+m=audio 30000 RTP/AVP 8
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,112,mgcp,"200 10511 OK
+I: 7c
+
+v=0
+c=IN IP4 200.57.7.202
+m=audio 30000 RTP/AVP 8
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,112,mgcp,"200 10511 OK
+I: 7c
+
+v=0
+c=IN IP4 200.57.7.202
+m=audio 30000 RTP/AVP 8
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,112,mgcp,"200 10511 OK
+I: 7c
+
+v=0
+c=IN IP4 200.57.7.202
+m=audio 30000 RTP/AVP 8
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,117,mgcp,"RQNT 10512 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf, [0-9#*](N)
+X: ABCD10512
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,117,mgcp,"RQNT 10512 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf, [0-9#*](N)
+X: ABCD10512
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,117,mgcp,"RQNT 10512 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf, [0-9#*](N)
+X: ABCD10512
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,117,mgcp,"RQNT 10512 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf, [0-9#*](N)
+X: ABCD10512
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,117,mgcp,"RQNT 10512 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf, [0-9#*](N)
+X: ABCD10512
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,117,mgcp,"RQNT 10512 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf, [0-9#*](N)
+X: ABCD10512
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,117,mgcp,"RQNT 10512 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf, [0-9#*](N)
+X: ABCD10512
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,117,mgcp,"RQNT 10512 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf, [0-9#*](N)
+X: ABCD10512
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,117,mgcp,"RQNT 10512 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf, [0-9#*](N)
+X: ABCD10512
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,117,mgcp,"RQNT 10512 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf, [0-9#*](N)
+X: ABCD10512
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,117,mgcp,"RQNT 10512 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf, [0-9#*](N)
+X: ABCD10512
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,117,mgcp,"RQNT 10512 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf, [0-9#*](N)
+X: ABCD10512
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,117,mgcp,"RQNT 10512 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf, [0-9#*](N)
+X: ABCD10512
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,117,mgcp,"RQNT 10512 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf, [0-9#*](N)
+X: ABCD10512
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,117,mgcp,"RQNT 10512 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf, [0-9#*](N)
+X: ABCD10512
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,117,mgcp,"RQNT 10512 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf, [0-9#*](N)
+X: ABCD10512
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,117,mgcp,"RQNT 10512 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf, [0-9#*](N)
+X: ABCD10512
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,117,mgcp,"RQNT 10512 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf, [0-9#*](N)
+X: ABCD10512
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,117,mgcp,"RQNT 10512 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf, [0-9#*](N)
+X: ABCD10512
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,117,mgcp,"RQNT 10512 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf, [0-9#*](N)
+X: ABCD10512
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,117,mgcp,"RQNT 10512 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf, [0-9#*](N)
+X: ABCD10512
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,117,mgcp,"RQNT 10512 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf, [0-9#*](N)
+X: ABCD10512
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,117,mgcp,"RQNT 10512 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf, [0-9#*](N)
+X: ABCD10512
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,117,mgcp,"RQNT 10512 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf, [0-9#*](N)
+X: ABCD10512
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,117,mgcp,"RQNT 10512 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf, [0-9#*](N)
+X: ABCD10512
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,117,mgcp,"RQNT 10512 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf, [0-9#*](N)
+X: ABCD10512
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,117,mgcp,"RQNT 10512 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf, [0-9#*](N)
+X: ABCD10512
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,117,mgcp,"RQNT 10512 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf, [0-9#*](N)
+X: ABCD10512
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,117,mgcp,"RQNT 10512 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf, [0-9#*](N)
+X: ABCD10512
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,117,mgcp,"RQNT 10512 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf, [0-9#*](N)
+X: ABCD10512
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,117,mgcp,"RQNT 10512 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf, [0-9#*](N)
+X: ABCD10512
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,117,mgcp,"RQNT 10512 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf, [0-9#*](N)
+X: ABCD10512
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,117,mgcp,"RQNT 10512 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf, [0-9#*](N)
+X: ABCD10512
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,117,mgcp,"RQNT 10512 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf, [0-9#*](N)
+X: ABCD10512
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,117,mgcp,"RQNT 10512 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf, [0-9#*](N)
+X: ABCD10512
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,117,mgcp,"RQNT 10512 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf, [0-9#*](N)
+X: ABCD10512
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,117,mgcp,"RQNT 10512 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf, [0-9#*](N)
+X: ABCD10512
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,117,mgcp,"RQNT 10512 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf, [0-9#*](N)
+X: ABCD10512
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,117,mgcp,"RQNT 10512 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf, [0-9#*](N)
+X: ABCD10512
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,117,mgcp,"RQNT 10512 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf, [0-9#*](N)
+X: ABCD10512
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,117,mgcp,"RQNT 10512 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf, [0-9#*](N)
+X: ABCD10512
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,117,mgcp,"RQNT 10512 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf, [0-9#*](N)
+X: ABCD10512
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,117,mgcp,"RQNT 10512 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf, [0-9#*](N)
+X: ABCD10512
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,117,mgcp,"RQNT 10512 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf, [0-9#*](N)
+X: ABCD10512
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,117,mgcp,"RQNT 10512 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf, [0-9#*](N)
+X: ABCD10512
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,117,mgcp,"RQNT 10512 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf, [0-9#*](N)
+X: ABCD10512
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,117,mgcp,"RQNT 10512 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf, [0-9#*](N)
+X: ABCD10512
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,117,mgcp,"RQNT 10512 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf, [0-9#*](N)
+X: ABCD10512
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10512 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10512 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10512 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10512 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10512 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10512 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10512 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10512 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10512 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10512 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10512 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10512 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10512 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10512 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10512 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10512 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10512 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10512 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10512 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10512 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10512 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10512 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10512 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10512 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10512 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10512 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10512 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10512 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10512 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10512 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10512 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10512 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10512 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10512 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10512 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10512 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10512 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10512 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10512 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10512 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10512 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10512 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10512 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10512 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10512 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10512 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10512 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10512 OK
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,111,mgcp,"RQNT 10513 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf
+X: ABCD10513
+S: rt
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,111,mgcp,"RQNT 10513 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf
+X: ABCD10513
+S: rt
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,111,mgcp,"RQNT 10513 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf
+X: ABCD10513
+S: rt
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,111,mgcp,"RQNT 10513 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf
+X: ABCD10513
+S: rt
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,111,mgcp,"RQNT 10513 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf
+X: ABCD10513
+S: rt
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,111,mgcp,"RQNT 10513 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf
+X: ABCD10513
+S: rt
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,111,mgcp,"RQNT 10513 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf
+X: ABCD10513
+S: rt
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,111,mgcp,"RQNT 10513 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf
+X: ABCD10513
+S: rt
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,111,mgcp,"RQNT 10513 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf
+X: ABCD10513
+S: rt
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,111,mgcp,"RQNT 10513 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf
+X: ABCD10513
+S: rt
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,111,mgcp,"RQNT 10513 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf
+X: ABCD10513
+S: rt
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,111,mgcp,"RQNT 10513 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf
+X: ABCD10513
+S: rt
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,111,mgcp,"RQNT 10513 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf
+X: ABCD10513
+S: rt
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,111,mgcp,"RQNT 10513 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf
+X: ABCD10513
+S: rt
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,111,mgcp,"RQNT 10513 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf
+X: ABCD10513
+S: rt
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,111,mgcp,"RQNT 10513 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf
+X: ABCD10513
+S: rt
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,111,mgcp,"RQNT 10513 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf
+X: ABCD10513
+S: rt
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,111,mgcp,"RQNT 10513 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf
+X: ABCD10513
+S: rt
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,111,mgcp,"RQNT 10513 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf
+X: ABCD10513
+S: rt
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,111,mgcp,"RQNT 10513 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf
+X: ABCD10513
+S: rt
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,111,mgcp,"RQNT 10513 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf
+X: ABCD10513
+S: rt
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,111,mgcp,"RQNT 10513 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf
+X: ABCD10513
+S: rt
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,111,mgcp,"RQNT 10513 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf
+X: ABCD10513
+S: rt
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,111,mgcp,"RQNT 10513 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf
+X: ABCD10513
+S: rt
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,111,mgcp,"RQNT 10513 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf
+X: ABCD10513
+S: rt
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,111,mgcp,"RQNT 10513 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf
+X: ABCD10513
+S: rt
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,111,mgcp,"RQNT 10513 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf
+X: ABCD10513
+S: rt
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,111,mgcp,"RQNT 10513 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf
+X: ABCD10513
+S: rt
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,111,mgcp,"RQNT 10513 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf
+X: ABCD10513
+S: rt
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,111,mgcp,"RQNT 10513 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf
+X: ABCD10513
+S: rt
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,111,mgcp,"RQNT 10513 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf
+X: ABCD10513
+S: rt
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,111,mgcp,"RQNT 10513 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf
+X: ABCD10513
+S: rt
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,111,mgcp,"RQNT 10513 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf
+X: ABCD10513
+S: rt
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,111,mgcp,"RQNT 10513 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf
+X: ABCD10513
+S: rt
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,111,mgcp,"RQNT 10513 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf
+X: ABCD10513
+S: rt
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,111,mgcp,"RQNT 10513 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf
+X: ABCD10513
+S: rt
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,111,mgcp,"RQNT 10513 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf
+X: ABCD10513
+S: rt
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,111,mgcp,"RQNT 10513 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf
+X: ABCD10513
+S: rt
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,111,mgcp,"RQNT 10513 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf
+X: ABCD10513
+S: rt
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,111,mgcp,"RQNT 10513 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf
+X: ABCD10513
+S: rt
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,111,mgcp,"RQNT 10513 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf
+X: ABCD10513
+S: rt
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,111,mgcp,"RQNT 10513 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf
+X: ABCD10513
+S: rt
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,111,mgcp,"RQNT 10513 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf
+X: ABCD10513
+S: rt
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,111,mgcp,"RQNT 10513 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf
+X: ABCD10513
+S: rt
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,111,mgcp,"RQNT 10513 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf
+X: ABCD10513
+S: rt
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,111,mgcp,"RQNT 10513 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf
+X: ABCD10513
+S: rt
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,111,mgcp,"RQNT 10513 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf
+X: ABCD10513
+S: rt
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,111,mgcp,"RQNT 10513 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+R: hu, hf
+X: ABCD10513
+S: rt
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10513 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10513 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10513 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10513 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10513 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10513 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10513 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10513 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10513 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10513 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10513 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10513 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10513 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10513 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10513 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10513 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10513 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10513 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10513 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10513 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10513 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10513 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10513 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10513 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10513 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10513 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10513 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10513 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10513 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10513 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10513 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10513 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10513 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10513 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10513 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10513 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10513 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10513 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10513 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10513 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10513 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10513 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10513 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10513 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10513 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10513 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10513 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10513 OK
+"
+200.57.7.195,200.57.7.202,2427,9693,udp,0x00,0x40,97,mgcp,"AUEP 10514 aaln/1@cpg1 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,9693,udp,0x00,0x40,97,mgcp,"AUEP 10514 aaln/1@cpg1 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,9693,udp,0x00,0x40,97,mgcp,"AUEP 10514 aaln/1@cpg1 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,9693,udp,0x00,0x40,97,mgcp,"AUEP 10514 aaln/1@cpg1 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,9693,udp,0x00,0x40,97,mgcp,"AUEP 10514 aaln/1@cpg1 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,9693,udp,0x00,0x40,97,mgcp,"AUEP 10514 aaln/1@cpg1 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,9693,udp,0x00,0x40,97,mgcp,"AUEP 10514 aaln/1@cpg1 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,9693,udp,0x00,0x40,97,mgcp,"AUEP 10514 aaln/1@cpg1 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,9693,udp,0x00,0x40,97,mgcp,"AUEP 10514 aaln/1@cpg1 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,9693,udp,0x00,0x40,97,mgcp,"AUEP 10514 aaln/1@cpg1 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,9693,udp,0x00,0x40,97,mgcp,"AUEP 10514 aaln/1@cpg1 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,9693,udp,0x00,0x40,97,mgcp,"AUEP 10514 aaln/1@cpg1 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,9693,udp,0x00,0x40,97,mgcp,"AUEP 10514 aaln/1@cpg1 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,9693,udp,0x00,0x40,97,mgcp,"AUEP 10514 aaln/1@cpg1 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,9693,udp,0x00,0x40,97,mgcp,"AUEP 10514 aaln/1@cpg1 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,9693,udp,0x00,0x40,97,mgcp,"AUEP 10514 aaln/1@cpg1 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,9693,udp,0x00,0x40,97,mgcp,"AUEP 10514 aaln/1@cpg1 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,9693,udp,0x00,0x40,97,mgcp,"AUEP 10514 aaln/1@cpg1 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,9693,udp,0x00,0x40,97,mgcp,"AUEP 10514 aaln/1@cpg1 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,9693,udp,0x00,0x40,97,mgcp,"AUEP 10514 aaln/1@cpg1 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,9693,udp,0x00,0x40,97,mgcp,"AUEP 10514 aaln/1@cpg1 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,9693,udp,0x00,0x40,97,mgcp,"AUEP 10514 aaln/1@cpg1 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,9693,udp,0x00,0x40,97,mgcp,"AUEP 10514 aaln/1@cpg1 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,9693,udp,0x00,0x40,97,mgcp,"AUEP 10514 aaln/1@cpg1 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,9693,udp,0x00,0x40,97,mgcp,"AUEP 10514 aaln/1@cpg1 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,9693,udp,0x00,0x40,97,mgcp,"AUEP 10514 aaln/1@cpg1 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,9693,udp,0x00,0x40,97,mgcp,"AUEP 10514 aaln/1@cpg1 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,9693,udp,0x00,0x40,97,mgcp,"AUEP 10514 aaln/1@cpg1 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,9693,udp,0x00,0x40,97,mgcp,"AUEP 10514 aaln/1@cpg1 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,9693,udp,0x00,0x40,97,mgcp,"AUEP 10514 aaln/1@cpg1 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,9693,udp,0x00,0x40,97,mgcp,"AUEP 10514 aaln/1@cpg1 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,9693,udp,0x00,0x40,97,mgcp,"AUEP 10514 aaln/1@cpg1 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,9693,udp,0x00,0x40,97,mgcp,"AUEP 10514 aaln/1@cpg1 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,9693,udp,0x00,0x40,97,mgcp,"AUEP 10514 aaln/1@cpg1 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,9693,udp,0x00,0x40,97,mgcp,"AUEP 10514 aaln/1@cpg1 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,9693,udp,0x00,0x40,97,mgcp,"AUEP 10514 aaln/1@cpg1 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,9693,udp,0x00,0x40,97,mgcp,"AUEP 10514 aaln/1@cpg1 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,9693,udp,0x00,0x40,97,mgcp,"AUEP 10514 aaln/1@cpg1 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,9693,udp,0x00,0x40,97,mgcp,"AUEP 10514 aaln/1@cpg1 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,9693,udp,0x00,0x40,97,mgcp,"AUEP 10514 aaln/1@cpg1 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,9693,udp,0x00,0x40,97,mgcp,"AUEP 10514 aaln/1@cpg1 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,9693,udp,0x00,0x40,97,mgcp,"AUEP 10514 aaln/1@cpg1 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,9693,udp,0x00,0x40,97,mgcp,"AUEP 10514 aaln/1@cpg1 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,9693,udp,0x00,0x40,97,mgcp,"AUEP 10514 aaln/1@cpg1 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,9693,udp,0x00,0x40,97,mgcp,"AUEP 10514 aaln/1@cpg1 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,9693,udp,0x00,0x40,97,mgcp,"AUEP 10514 aaln/1@cpg1 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,9693,udp,0x00,0x40,97,mgcp,"AUEP 10514 aaln/1@cpg1 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,9693,udp,0x00,0x40,97,mgcp,"AUEP 10514 aaln/1@cpg1 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"AUEP 10515 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"AUEP 10515 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"AUEP 10515 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"AUEP 10515 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"AUEP 10515 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"AUEP 10515 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"AUEP 10515 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"AUEP 10515 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"AUEP 10515 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"AUEP 10515 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"AUEP 10515 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"AUEP 10515 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"AUEP 10515 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"AUEP 10515 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"AUEP 10515 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"AUEP 10515 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"AUEP 10515 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"AUEP 10515 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"AUEP 10515 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"AUEP 10515 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"AUEP 10515 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"AUEP 10515 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"AUEP 10515 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"AUEP 10515 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"AUEP 10515 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"AUEP 10515 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"AUEP 10515 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"AUEP 10515 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"AUEP 10515 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"AUEP 10515 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"AUEP 10515 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"AUEP 10515 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"AUEP 10515 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"AUEP 10515 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"AUEP 10515 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"AUEP 10515 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"AUEP 10515 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"AUEP 10515 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"AUEP 10515 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"AUEP 10515 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"AUEP 10515 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"AUEP 10515 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"AUEP 10515 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"AUEP 10515 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"AUEP 10515 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"AUEP 10515 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"AUEP 10515 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.195,200.57.7.202,2427,2427,udp,0x00,0x40,97,mgcp,"AUEP 10515 aaln/1@cpg2 MGCP 1.0 NCS 1.0
+F: RM
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10515 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10515 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10515 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10515 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10515 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10515 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10515 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10515 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10515 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10515 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10515 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10515 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10515 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10515 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10515 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10515 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10515 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10515 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10515 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10515 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10515 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10515 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10515 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10515 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10515 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10515 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10515 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10515 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10515 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10515 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10515 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10515 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10515 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10515 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10515 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10515 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10515 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10515 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10515 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10515 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10515 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10515 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10515 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10515 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10515 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10515 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10515 OK
+"
+200.57.7.202,200.57.7.195,2427,2427,udp,0x07,0x00,60,mgcp,"200 10515 OK
+"
+200.57.7.202,200.57.7.195,9693,2427,udp,0x07,0x00,60,mgcp,"200 10514 OK
+"
+200.57.7.202,200.57.7.195,9693,2427,udp,0x07,0x00,60,mgcp,"200 10514 OK
+"
+200.57.7.202,200.57.7.195,9693,2427,udp,0x07,0x00,60,mgcp,"200 10514 OK
+"
+200.57.7.202,200.57.7.195,9693,2427,udp,0x07,0x00,60,mgcp,"200 10514 OK
+"
+200.57.7.202,200.57.7.195,9693,2427,udp,0x07,0x00,60,mgcp,"200 10514 OK
+"
+200.57.7.202,200.57.7.195,9693,2427,udp,0x07,0x00,60,mgcp,"200 10514 OK
+"
+200.57.7.202,200.57.7.195,9693,2427,udp,0x07,0x00,60,mgcp,"200 10514 OK
+"
+200.57.7.202,200.57.7.195,9693,2427,udp,0x07,0x00,60,mgcp,"200 10514 OK
+"
+200.57.7.202,200.57.7.195,9693,2427,udp,0x07,0x00,60,mgcp,"200 10514 OK
+"
+200.57.7.202,200.57.7.195,9693,2427,udp,0x07,0x00,60,mgcp,"200 10514 OK
+"
+200.57.7.202,200.57.7.195,9693,2427,udp,0x07,0x00,60,mgcp,"200 10514 OK
+"
+200.57.7.202,200.57.7.195,9693,2427,udp,0x07,0x00,60,mgcp,"200 10514 OK
+"
+200.57.7.202,200.57.7.195,9693,2427,udp,0x07,0x00,60,mgcp,"200 10514 OK
+"
+200.57.7.202,200.57.7.195,9693,2427,udp,0x07,0x00,60,mgcp,"200 10514 OK
+"
+200.57.7.202,200.57.7.195,9693,2427,udp,0x07,0x00,60,mgcp,"200 10514 OK
+"
+200.57.7.202,200.57.7.195,9693,2427,udp,0x07,0x00,60,mgcp,"200 10514 OK
+"
+200.57.7.202,200.57.7.195,9693,2427,udp,0x07,0x00,60,mgcp,"200 10514 OK
+"
+200.57.7.202,200.57.7.195,9693,2427,udp,0x07,0x00,60,mgcp,"200 10514 OK
+"
+200.57.7.202,200.57.7.195,9693,2427,udp,0x07,0x00,60,mgcp,"200 10514 OK
+"
+200.57.7.202,200.57.7.195,9693,2427,udp,0x07,0x00,60,mgcp,"200 10514 OK
+"
+200.57.7.202,200.57.7.195,9693,2427,udp,0x07,0x00,60,mgcp,"200 10514 OK
+"
+200.57.7.202,200.57.7.195,9693,2427,udp,0x07,0x00,60,mgcp,"200 10514 OK
+"
+200.57.7.202,200.57.7.195,9693,2427,udp,0x07,0x00,60,mgcp,"200 10514 OK
+"
+200.57.7.202,200.57.7.195,9693,2427,udp,0x07,0x00,60,mgcp,"200 10514 OK
+"
+200.57.7.202,200.57.7.195,9693,2427,udp,0x07,0x00,60,mgcp,"200 10514 OK
+"
+200.57.7.202,200.57.7.195,9693,2427,udp,0x07,0x00,60,mgcp,"200 10514 OK
+"
+200.57.7.202,200.57.7.195,9693,2427,udp,0x07,0x00,60,mgcp,"200 10514 OK
+"
+200.57.7.202,200.57.7.195,9693,2427,udp,0x07,0x00,60,mgcp,"200 10514 OK
+"
+200.57.7.202,200.57.7.195,9693,2427,udp,0x07,0x00,60,mgcp,"200 10514 OK
+"
+200.57.7.202,200.57.7.195,9693,2427,udp,0x07,0x00,60,mgcp,"200 10514 OK
+"
+200.57.7.202,200.57.7.195,9693,2427,udp,0x07,0x00,60,mgcp,"200 10514 OK
+"
+200.57.7.202,200.57.7.195,9693,2427,udp,0x07,0x00,60,mgcp,"200 10514 OK
+"
+200.57.7.202,200.57.7.195,9693,2427,udp,0x07,0x00,60,mgcp,"200 10514 OK
+"
+200.57.7.202,200.57.7.195,9693,2427,udp,0x07,0x00,60,mgcp,"200 10514 OK
+"
+200.57.7.202,200.57.7.195,9693,2427,udp,0x07,0x00,60,mgcp,"200 10514 OK
+"
+200.57.7.202,200.57.7.195,9693,2427,udp,0x07,0x00,60,mgcp,"200 10514 OK
+"
+200.57.7.202,200.57.7.195,9693,2427,udp,0x07,0x00,60,mgcp,"200 10514 OK
+"
+200.57.7.202,200.57.7.195,9693,2427,udp,0x07,0x00,60,mgcp,"200 10514 OK
+"
+200.57.7.202,200.57.7.195,9693,2427,udp,0x07,0x00,60,mgcp,"200 10514 OK
+"
+200.57.7.202,200.57.7.195,9693,2427,udp,0x07,0x00,60,mgcp,"200 10514 OK
+"
+200.57.7.202,200.57.7.195,9693,2427,udp,0x07,0x00,60,mgcp,"200 10514 OK
+"
+200.57.7.202,200.57.7.195,9693,2427,udp,0x07,0x00,60,mgcp,"200 10514 OK
+"
+200.57.7.202,200.57.7.195,9693,2427,udp,0x07,0x00,60,mgcp,"200 10514 OK
+"
+200.57.7.202,200.57.7.195,9693,2427,udp,0x07,0x00,60,mgcp,"200 10514 OK
+"
+200.57.7.202,200.57.7.195,9693,2427,udp,0x07,0x00,60,mgcp,"200 10514 OK
+"
+200.57.7.202,200.57.7.195,9693,2427,udp,0x07,0x00,60,mgcp,"200 10514 OK
+"
+200.57.7.202,200.57.7.195,9693,2427,udp,0x07,0x00,60,mgcp,"200 10514 OK
+"
+200.57.7.202,200.57.7.195,9693,2427,udp,0x07,0x00,60,mgcp,"200 10514 OK
+"
